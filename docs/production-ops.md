@@ -1,40 +1,25 @@
-# Fook Me Production Ops
+# Production operations
 
-## Primary production build root
+## Primary repos
 
-`/home/rtx5060ti/production/shadowfetch-builder-signal`
+- `shadowfetch-builder-signal`: source data, ranking logic, and reports
+- `shadowfetch-signal-board`: product surface generated from the latest report
 
-## Goal
+## Linux helpers
 
-Give Fook a concrete production surface where she can:
-- build a real tool
-- generate real output
-- publish changes to GitHub
+- `~/bin/fook-use-production-model`
+- `~/bin/fook-run-builder-signal`
+- `~/bin/fook-refresh-production`
+- `~/bin/fook-build-signal-board`
 
-## Current repo function
+## Timer
 
-This repo builds a compact builder-signal report from GitHub and Hacker News.
-That gives Fook a useful first production job that matches her role as a data-mining and tooling operator.
+The refresh timer runs hourly and performs this sequence:
+1. generate fresh builder-signal outputs
+2. rebuild the board
+3. commit and push changes if the reports changed
 
-## Runbook
+## Notes
 
-```bash
-cd /home/rtx5060ti/production/shadowfetch-builder-signal
-python3 builder_signal.py run --limit 8
-```
-
-## Outputs
-
-- `reports/latest.json`
-- `reports/latest.md`
-
-## Publish flow
-
-```bash
-/home/rtx5060ti/bin/github-push-shadowfetchai /home/rtx5060ti/production/shadowfetch-builder-signal main
-```
-
-## Model note
-
-- Huihui GLM is the current production-safe model.
-- `gpt-oss-abliterated:20b` is installed and available, but its tool path still needs more confidence.
+The stable production model is Huihui.
+The GPT OSS lane is still experimental until tool calling is clean under real load.

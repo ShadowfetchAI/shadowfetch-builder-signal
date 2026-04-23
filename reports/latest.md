@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-23T16:02:29.739784+00:00`
+Generated: `2026-04-23T16:40:24.271895+00:00`
 
 ## What matters first
 
@@ -14,7 +14,7 @@ Generated: `2026-04-23T16:02:29.739784+00:00`
 ### 1. yasasbanukaofficial/claude-code
 - URL: https://github.com/yasasbanukaofficial/claude-code
 - Language: TypeScript
-- Stars: 2789
+- Stars: 2790
 - Why it matters: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
 
 ### 2. smallcloudai/refact
@@ -38,7 +38,7 @@ Generated: `2026-04-23T16:02:29.739784+00:00`
 ### 5. always-further/nono
 - URL: https://github.com/always-further/nono
 - Language: Rust
-- Stars: 2090
+- Stars: 2091
 - Why it matters: nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency. 
 
 ### 6. OfficeDev/microsoft-365-agents-toolkit
@@ -63,43 +63,43 @@ Generated: `2026-04-23T16:02:29.739784+00:00`
 
 ### 1. Alberta startup sells no-tech tractors for half price
 - URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/
-- Points: 1992
-- Comments: 674
+- Points: 2020
+- Comments: 689
 
 ### 2. I am building a cloud
 - URL: https://crawshaw.io/blog/building-a-cloud
-- Points: 744
-- Comments: 386
+- Points: 783
+- Comments: 403
 
 ### 3. We found a stable Firefox identifier linking all your private Tor identities
 - URL: https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/
-- Points: 829
-- Comments: 246
+- Points: 840
+- Comments: 252
 
 ### 4. Apple fixes bug that cops used to extract deleted chat messages from iPhones
 - URL: https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/
-- Points: 742
+- Points: 760
 - Comments: 175
 
 ### 5. 5x5 Pixel font for tiny screens
 - URL: https://maurycyz.com/projects/mcufont/
-- Points: 734
+- Points: 743
 - Comments: 149
 
 ### 6. Over-editing refers to a model modifying code beyond what is necessary
 - URL: https://nrehiew.github.io/blog/minimal_editing/
-- Points: 391
-- Comments: 232
+- Points: 396
+- Comments: 233
 
 ### 7. The Onion to Take over InfoWars
 - URL: https://www.nytimes.com/2026/04/20/business/infowars-alex-jones-the-onion.html
-- Points: 407
-- Comments: 182
+- Points: 440
+- Comments: 210
 
 ### 8. Website streamed live directly from a model
 - URL: https://flipbook.page/
-- Points: 367
-- Comments: 98
+- Points: 378
+- Comments: 101
 
 ## App idea angles
 
