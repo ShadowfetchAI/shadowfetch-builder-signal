@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-23T16:49:42.836082+00:00`
+Generated: `2026-04-23T17:00:45.091207+00:00`
 
 ## What matters first
 
@@ -63,43 +63,43 @@ Generated: `2026-04-23T16:49:42.836082+00:00`
 
 ### 1. Alberta startup sells no-tech tractors for half price
 - URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/
-- Points: 2024
-- Comments: 692
+- Points: 2030
+- Comments: 694
 
 ### 2. I am building a cloud
 - URL: https://crawshaw.io/blog/building-a-cloud
-- Points: 788
-- Comments: 404
+- Points: 801
+- Comments: 410
 
 ### 3. We found a stable Firefox identifier linking all your private Tor identities
 - URL: https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/
-- Points: 840
-- Comments: 252
+- Points: 842
+- Comments: 254
 
 ### 4. Apple fixes bug that cops used to extract deleted chat messages from iPhones
 - URL: https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/
-- Points: 763
+- Points: 767
 - Comments: 175
 
 ### 5. 5x5 Pixel font for tiny screens
 - URL: https://maurycyz.com/projects/mcufont/
-- Points: 744
-- Comments: 149
+- Points: 749
+- Comments: 150
 
-### 6. The Onion to Take over InfoWars
-- URL: https://www.nytimes.com/2026/04/20/business/infowars-alex-jones-the-onion.html
-- Points: 446
-- Comments: 212
-
-### 7. Over-editing refers to a model modifying code beyond what is necessary
+### 6. Over-editing refers to a model modifying code beyond what is necessary
 - URL: https://nrehiew.github.io/blog/minimal_editing/
-- Points: 397
-- Comments: 233
+- Points: 399
+- Comments: 234
 
-### 8. Website streamed live directly from a model
+### 7. Website streamed live directly from a model
 - URL: https://flipbook.page/
-- Points: 382
+- Points: 385
 - Comments: 101
+
+### 8. Your hex editor should color-code bytes
+- URL: https://simonomi.dev/blog/color-code-your-bytes/
+- Points: 373
+- Comments: 109
 
 ## App idea angles
 
