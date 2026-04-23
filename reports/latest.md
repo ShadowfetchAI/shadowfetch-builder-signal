@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-23T19:00:19.729826+00:00`
+Generated: `2026-04-23T20:00:19.152016+00:00`
 
 ## What matters first
 
@@ -14,7 +14,7 @@ Generated: `2026-04-23T19:00:19.729826+00:00`
 ### 1. yasasbanukaofficial/claude-code
 - URL: https://github.com/yasasbanukaofficial/claude-code
 - Language: TypeScript
-- Stars: 2792
+- Stars: 2794
 - Why it matters: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
 
 ### 2. smallcloudai/refact
@@ -38,7 +38,7 @@ Generated: `2026-04-23T19:00:19.729826+00:00`
 ### 5. always-further/nono
 - URL: https://github.com/always-further/nono
 - Language: Rust
-- Stars: 2092
+- Stars: 2093
 - Why it matters: nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency. 
 
 ### 6. OfficeDev/microsoft-365-agents-toolkit
@@ -63,43 +63,43 @@ Generated: `2026-04-23T19:00:19.729826+00:00`
 
 ### 1. Alberta startup sells no-tech tractors for half price
 - URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/
-- Points: 2072
-- Comments: 709
+- Points: 2085
+- Comments: 713
 
 ### 2. I am building a cloud
 - URL: https://crawshaw.io/blog/building-a-cloud
-- Points: 860
-- Comments: 435
+- Points: 892
+- Comments: 448
 
 ### 3. We found a stable Firefox identifier linking all your private Tor identities
 - URL: https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/
-- Points: 870
-- Comments: 262
+- Points: 877
+- Comments: 265
 
 ### 4. Apple fixes bug that cops used to extract deleted chat messages from iPhones
 - URL: https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/
-- Points: 801
-- Comments: 179
+- Points: 806
+- Comments: 180
 
-### 5. 5x5 Pixel font for tiny screens
-- URL: https://maurycyz.com/projects/mcufont/
-- Points: 774
-- Comments: 151
+### 5. GPT-5.5
+- URL: https://openai.com/index/introducing-gpt-5-5/
+- Points: 582
+- Comments: 244
 
 ### 6. If America's so rich, how'd it get so sad?
 - URL: https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so
-- Points: 201
-- Comments: 381
+- Points: 247
+- Comments: 457
 
 ### 7. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
 - URL: https://socket.dev/blog/bitwarden-cli-compromised
-- Points: 420
-- Comments: 198
+- Points: 461
+- Comments: 221
 
 ### 8. Your hex editor should color-code bytes
 - URL: https://simonomi.dev/blog/color-code-your-bytes/
-- Points: 411
-- Comments: 121
+- Points: 423
+- Comments: 124
 
 ## App idea angles
 
