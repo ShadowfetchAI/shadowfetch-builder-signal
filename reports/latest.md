@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-23T20:00:19.152016+00:00`
+Generated: `2026-04-23T21:00:22.338962+00:00`
 
 ## What matters first
 
@@ -14,7 +14,7 @@ Generated: `2026-04-23T20:00:19.152016+00:00`
 ### 1. yasasbanukaofficial/claude-code
 - URL: https://github.com/yasasbanukaofficial/claude-code
 - Language: TypeScript
-- Stars: 2794
+- Stars: 2795
 - Why it matters: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
 
 ### 2. smallcloudai/refact
@@ -63,43 +63,43 @@ Generated: `2026-04-23T20:00:19.152016+00:00`
 
 ### 1. Alberta startup sells no-tech tractors for half price
 - URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/
-- Points: 2085
-- Comments: 713
+- Points: 2102
+- Comments: 719
 
 ### 2. I am building a cloud
 - URL: https://crawshaw.io/blog/building-a-cloud
-- Points: 892
-- Comments: 448
+- Points: 917
+- Comments: 456
 
-### 3. We found a stable Firefox identifier linking all your private Tor identities
-- URL: https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/
-- Points: 877
-- Comments: 265
-
-### 4. Apple fixes bug that cops used to extract deleted chat messages from iPhones
-- URL: https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/
-- Points: 806
-- Comments: 180
-
-### 5. GPT-5.5
+### 3. GPT-5.5
 - URL: https://openai.com/index/introducing-gpt-5-5/
-- Points: 582
-- Comments: 244
+- Points: 754
+- Comments: 376
 
-### 6. If America's so rich, how'd it get so sad?
+### 4. We found a stable Firefox identifier linking all your private Tor identities
+- URL: https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/
+- Points: 887
+- Comments: 268
+
+### 5. If America's so rich, how'd it get so sad?
 - URL: https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so
-- Points: 247
-- Comments: 457
+- Points: 310
+- Comments: 558
+
+### 6. Apple fixes bug that cops used to extract deleted chat messages from iPhones
+- URL: https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/
+- Points: 820
+- Comments: 181
 
 ### 7. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
 - URL: https://socket.dev/blog/bitwarden-cli-compromised
-- Points: 461
-- Comments: 221
+- Points: 493
+- Comments: 231
 
-### 8. Your hex editor should color-code bytes
-- URL: https://simonomi.dev/blog/color-code-your-bytes/
-- Points: 423
-- Comments: 124
+### 8. Palantir employees are starting to wonder if they're the bad guys
+- URL: https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/
+- Points: 397
+- Comments: 285
 
 ## App idea angles
 
