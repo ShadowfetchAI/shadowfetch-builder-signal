@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-23T22:00:21.725435+00:00`
+Generated: `2026-04-23T23:00:21.079781+00:00`
 
 ## What matters first
 
@@ -14,7 +14,7 @@ Generated: `2026-04-23T22:00:21.725435+00:00`
 ### 1. yasasbanukaofficial/claude-code
 - URL: https://github.com/yasasbanukaofficial/claude-code
 - Language: TypeScript
-- Stars: 2795
+- Stars: 2796
 - Why it matters: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
 
 ### 2. smallcloudai/refact
@@ -26,7 +26,7 @@ Generated: `2026-04-23T22:00:21.725435+00:00`
 ### 3. golutra/golutra
 - URL: https://github.com/golutra/golutra
 - Language: Rust
-- Stars: 3267
+- Stars: 3266
 - Why it matters: Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
 
 ### 4. cirosantilli/china-dictatorship
@@ -63,43 +63,43 @@ Generated: `2026-04-23T22:00:21.725435+00:00`
 
 ### 1. Alberta startup sells no-tech tractors for half price
 - URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/
-- Points: 2112
-- Comments: 724
+- Points: 2126
+- Comments: 729
 
-### 2. I am building a cloud
-- URL: https://crawshaw.io/blog/building-a-cloud
-- Points: 929
-- Comments: 462
-
-### 3. GPT-5.5
+### 2. GPT-5.5
 - URL: https://openai.com/index/introducing-gpt-5-5/
-- Points: 855
-- Comments: 473
+- Points: 930
+- Comments: 572
+
+### 3. I am building a cloud
+- URL: https://crawshaw.io/blog/building-a-cloud
+- Points: 947
+- Comments: 468
 
 ### 4. If America's so rich, how'd it get so sad?
 - URL: https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so
-- Points: 348
-- Comments: 629
+- Points: 376
+- Comments: 690
 
-### 5. Apple fixes bug that cops used to extract deleted chat messages from iPhones
+### 5. Palantir employees are starting to wonder if they're the bad guys
+- URL: https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/
+- Points: 582
+- Comments: 413
+
+### 6. Apple fixes bug that cops used to extract deleted chat messages from iPhones
 - URL: https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/
-- Points: 834
+- Points: 839
 - Comments: 181
 
-### 6. Palantir employees are starting to wonder if they're the bad guys
-- URL: https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/
-- Points: 496
-- Comments: 372
-
-### 7. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
-- URL: https://socket.dev/blog/bitwarden-cli-compromised
-- Points: 537
-- Comments: 256
-
-### 8. An update on recent Claude Code quality reports
+### 7. An update on recent Claude Code quality reports
 - URL: https://www.anthropic.com/engineering/april-23-postmortem
-- Points: 446
-- Comments: 324
+- Points: 487
+- Comments: 366
+
+### 8. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
+- URL: https://socket.dev/blog/bitwarden-cli-compromised
+- Points: 580
+- Comments: 270
 
 ## App idea angles
 
