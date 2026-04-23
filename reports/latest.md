@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-23T16:47:59.318993+00:00`
+Generated: `2026-04-23T16:49:42.836082+00:00`
 
 ## What matters first
 
