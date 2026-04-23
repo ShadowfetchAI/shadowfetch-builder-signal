@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-23T17:00:45.091207+00:00`
+Generated: `2026-04-23T18:00:14.373161+00:00`
 
 ## What matters first
 
@@ -14,7 +14,7 @@ Generated: `2026-04-23T17:00:45.091207+00:00`
 ### 1. yasasbanukaofficial/claude-code
 - URL: https://github.com/yasasbanukaofficial/claude-code
 - Language: TypeScript
-- Stars: 2790
+- Stars: 2791
 - Why it matters: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
 
 ### 2. smallcloudai/refact
@@ -63,43 +63,43 @@ Generated: `2026-04-23T17:00:45.091207+00:00`
 
 ### 1. Alberta startup sells no-tech tractors for half price
 - URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/
-- Points: 2030
-- Comments: 694
+- Points: 2056
+- Comments: 703
 
 ### 2. I am building a cloud
 - URL: https://crawshaw.io/blog/building-a-cloud
-- Points: 801
-- Comments: 410
+- Points: 832
+- Comments: 428
 
 ### 3. We found a stable Firefox identifier linking all your private Tor identities
 - URL: https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/
-- Points: 842
-- Comments: 254
+- Points: 860
+- Comments: 257
 
 ### 4. Apple fixes bug that cops used to extract deleted chat messages from iPhones
 - URL: https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/
-- Points: 767
-- Comments: 175
+- Points: 786
+- Comments: 178
 
 ### 5. 5x5 Pixel font for tiny screens
 - URL: https://maurycyz.com/projects/mcufont/
-- Points: 749
-- Comments: 150
+- Points: 763
+- Comments: 151
 
-### 6. Over-editing refers to a model modifying code beyond what is necessary
-- URL: https://nrehiew.github.io/blog/minimal_editing/
-- Points: 399
-- Comments: 234
+### 6. Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign
+- URL: https://socket.dev/blog/bitwarden-cli-compromised
+- Points: 352
+- Comments: 170
 
-### 7. Website streamed live directly from a model
-- URL: https://flipbook.page/
-- Points: 385
-- Comments: 101
-
-### 8. Your hex editor should color-code bytes
+### 7. Your hex editor should color-code bytes
 - URL: https://simonomi.dev/blog/color-code-your-bytes/
-- Points: 373
-- Comments: 109
+- Points: 397
+- Comments: 115
+
+### 8. If America's so rich, how'd it get so sad?
+- URL: https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so
+- Points: 145
+- Comments: 275
 
 ## App idea angles
 

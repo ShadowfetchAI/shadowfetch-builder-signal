@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-04-23T17:00:45.091207+00:00",
+    "generated_at": "2026-04-23T18:00:14.373161+00:00",
     "top_repo": "yasasbanukaofficial/claude-code",
     "top_news": "Alberta startup sells no-tech tractors for half price",
     "repo_count": 8,
@@ -13,9 +13,9 @@
       "url": "https://github.com/yasasbanukaofficial/claude-code",
       "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
       "language": "TypeScript",
-      "stars": 2790,
-      "forks": 4215,
-      "score": 11222.0
+      "stars": 2791,
+      "forks": 4217,
+      "score": 11227.0
     },
     {
       "bucket": "ai_agents",
@@ -54,8 +54,8 @@
       "description": "nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency. ",
       "language": "Rust",
       "stars": 2091,
-      "forks": 142,
-      "score": 2431.5
+      "forks": 143,
+      "score": 2433.5
     },
     {
       "bucket": "ai_agents",
@@ -93,65 +93,65 @@
       "id": "47865868",
       "title": "Alberta startup sells no-tech tractors for half price",
       "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "points": 2030,
-      "comments": 694,
-      "score": 3071.0
+      "points": 2056,
+      "comments": 703,
+      "score": 3110.5
     },
     {
       "id": "47872324",
       "title": "I am building a cloud",
       "url": "https://crawshaw.io/blog/building-a-cloud",
-      "points": 801,
-      "comments": 410,
-      "score": 1416.0
+      "points": 832,
+      "comments": 428,
+      "score": 1474.0
     },
     {
       "id": "47866697",
       "title": "We found a stable Firefox identifier linking all your private Tor identities",
       "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-      "points": 842,
-      "comments": 254,
-      "score": 1223.0
+      "points": 860,
+      "comments": 257,
+      "score": 1245.5
     },
     {
       "id": "47868867",
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
       "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "points": 767,
-      "comments": 175,
-      "score": 1044.5
+      "points": 786,
+      "comments": 178,
+      "score": 1068.0
     },
     {
       "id": "47824943",
       "title": "5x5 Pixel font for tiny screens",
       "url": "https://maurycyz.com/projects/mcufont/",
-      "points": 749,
-      "comments": 150,
-      "score": 974.0
+      "points": 763,
+      "comments": 151,
+      "score": 989.5
     },
     {
-      "id": "47866913",
-      "title": "Over-editing refers to a model modifying code beyond what is necessary",
-      "url": "https://nrehiew.github.io/blog/minimal_editing/",
-      "points": 399,
-      "comments": 234,
-      "score": 765.0
-    },
-    {
-      "id": "47867048",
-      "title": "Website streamed live directly from a model",
-      "url": "https://flipbook.page/",
-      "points": 385,
-      "comments": 101,
-      "score": 536.5
+      "id": "47876043",
+      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+      "points": 352,
+      "comments": 170,
+      "score": 622.0
     },
     {
       "id": "47846688",
       "title": "Your hex editor should color-code bytes",
       "url": "https://simonomi.dev/blog/color-code-your-bytes/",
-      "points": 373,
-      "comments": 109,
-      "score": 536.5
+      "points": 397,
+      "comments": 115,
+      "score": 569.5
+    },
+    {
+      "id": "47877429",
+      "title": "If America's so rich, how'd it get so sad?",
+      "url": "https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so",
+      "points": 145,
+      "comments": 275,
+      "score": 557.5
     }
   ],
   "ideas": [
