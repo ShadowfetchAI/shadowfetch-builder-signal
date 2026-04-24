@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-24T02:00:17.411994+00:00`
+Generated: `2026-04-24T03:00:20.365164+00:00`
 
 ## What matters first
 
@@ -14,7 +14,7 @@ Generated: `2026-04-24T02:00:17.411994+00:00`
 ### 1. yasasbanukaofficial/claude-code
 - URL: https://github.com/yasasbanukaofficial/claude-code
 - Language: TypeScript
-- Stars: 2797
+- Stars: 2799
 - Why it matters: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
 
 ### 2. smallcloudai/refact
@@ -50,7 +50,7 @@ Generated: `2026-04-24T02:00:17.411994+00:00`
 ### 7. agent-sh/agentsys
 - URL: https://github.com/agent-sh/agentsys
 - Language: JavaScript
-- Stars: 754
+- Stars: 755
 - Why it matters: AI writes code. This automates everything else · 19 plugins, 47 agents, and 40 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.
 
 ### 8. harshkedia177/axon
@@ -63,43 +63,43 @@ Generated: `2026-04-24T02:00:17.411994+00:00`
 
 ### 1. Alberta startup sells no-tech tractors for half price
 - URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/
-- Points: 2146
-- Comments: 735
+- Points: 2152
+- Comments: 737
 
 ### 2. GPT-5.5
 - URL: https://openai.com/index/introducing-gpt-5-5/
-- Points: 1089
-- Comments: 752
+- Points: 1138
+- Comments: 789
 
 ### 3. I am building a cloud
 - URL: https://crawshaw.io/blog/building-a-cloud
-- Points: 995
-- Comments: 488
+- Points: 1010
+- Comments: 497
 
-### 4. If America's so rich, how'd it get so sad?
-- URL: https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so
-- Points: 432
-- Comments: 795
-
-### 5. Palantir employees are starting to wonder if they're the bad guys
+### 4. Palantir employees are starting to wonder if they're the bad guys
 - URL: https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/
-- Points: 743
-- Comments: 509
+- Points: 770
+- Comments: 524
 
-### 6. An update on recent Claude Code quality reports
+### 5. An update on recent Claude Code quality reports
 - URL: https://www.anthropic.com/engineering/april-23-postmortem
-- Points: 576
-- Comments: 432
+- Points: 591
+- Comments: 451
 
-### 7. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
+### 6. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
 - URL: https://socket.dev/blog/bitwarden-cli-compromised
-- Points: 644
-- Comments: 319
+- Points: 666
+- Comments: 331
 
-### 8. Apple fixes bug that cops used to extract deleted chat messages from iPhones
-- URL: https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/
-- Points: 847
-- Comments: 183
+### 7. Meta tells staff it will cut 10% of jobs
+- URL: https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency
+- Points: 411
+- Comments: 380
+
+### 8. Your hex editor should color-code bytes
+- URL: https://simonomi.dev/blog/color-code-your-bytes/
+- Points: 517
+- Comments: 143
 
 ## App idea angles
 

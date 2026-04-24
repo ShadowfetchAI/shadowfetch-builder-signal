@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-04-24T02:00:17.411994+00:00",
+    "generated_at": "2026-04-24T03:00:20.365164+00:00",
     "top_repo": "yasasbanukaofficial/claude-code",
     "top_news": "Alberta startup sells no-tech tractors for half price",
     "repo_count": 8,
@@ -13,9 +13,9 @@
       "url": "https://github.com/yasasbanukaofficial/claude-code",
       "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
       "language": "TypeScript",
-      "stars": 2797,
-      "forks": 4222,
-      "score": 11243.0
+      "stars": 2799,
+      "forks": 4223,
+      "score": 11247.0
     },
     {
       "bucket": "ai_agents",
@@ -65,7 +65,7 @@
       "language": "TypeScript",
       "stars": 707,
       "forks": 293,
-      "score": 1452.5
+      "score": 1453.0
     },
     {
       "bucket": "automation",
@@ -73,9 +73,9 @@
       "url": "https://github.com/agent-sh/agentsys",
       "description": "AI writes code. This automates everything else \u00b7 19 plugins, 47 agents, and 40 skills \u00b7 for Claude Code, OpenCode, Codex, Cursor, Kiro.",
       "language": "JavaScript",
-      "stars": 754,
+      "stars": 755,
       "forks": 81,
-      "score": 916.0
+      "score": 917.0
     },
     {
       "bucket": "ai_agents",
@@ -93,65 +93,65 @@
       "id": "47865868",
       "title": "Alberta startup sells no-tech tractors for half price",
       "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "points": 2146,
-      "comments": 735,
-      "score": 3248.5
+      "points": 2152,
+      "comments": 737,
+      "score": 3257.5
     },
     {
       "id": "47879092",
       "title": "GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "points": 1089,
-      "comments": 752,
-      "score": 2232.0
+      "points": 1138,
+      "comments": 789,
+      "score": 2336.5
     },
     {
       "id": "47872324",
       "title": "I am building a cloud",
       "url": "https://crawshaw.io/blog/building-a-cloud",
-      "points": 995,
-      "comments": 488,
-      "score": 1727.0
-    },
-    {
-      "id": "47877429",
-      "title": "If America's so rich, how'd it get so sad?",
-      "url": "https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so",
-      "points": 432,
-      "comments": 795,
-      "score": 1624.5
+      "points": 1010,
+      "comments": 497,
+      "score": 1755.5
     },
     {
       "id": "47878633",
       "title": "Palantir employees are starting to wonder if they're the bad guys",
       "url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
-      "points": 743,
-      "comments": 509,
-      "score": 1506.5
+      "points": 770,
+      "comments": 524,
+      "score": 1556.0
     },
     {
       "id": "47878905",
       "title": "An update on recent Claude Code quality reports",
       "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "points": 576,
-      "comments": 432,
-      "score": 1224.0
+      "points": 591,
+      "comments": 451,
+      "score": 1267.5
     },
     {
       "id": "47876043",
       "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "points": 644,
-      "comments": 319,
-      "score": 1137.5
+      "points": 666,
+      "comments": 331,
+      "score": 1177.5
     },
     {
-      "id": "47868867",
-      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
-      "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "points": 847,
-      "comments": 183,
-      "score": 1136.5
+      "id": "47879986",
+      "title": "Meta tells staff it will cut 10% of jobs",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency",
+      "points": 411,
+      "comments": 380,
+      "score": 981.0
+    },
+    {
+      "id": "47846688",
+      "title": "Your hex editor should color-code bytes",
+      "url": "https://simonomi.dev/blog/color-code-your-bytes/",
+      "points": 517,
+      "comments": 143,
+      "score": 731.5
     }
   ],
   "ideas": [
