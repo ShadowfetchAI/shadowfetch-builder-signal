@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-24T22:00:21.471882+00:00`
+Generated: `2026-04-24T23:00:23.016899+00:00`
 
 ## What matters first
 
@@ -14,7 +14,7 @@ Generated: `2026-04-24T22:00:21.471882+00:00`
 ### 1. yasasbanukaofficial/claude-code
 - URL: https://github.com/yasasbanukaofficial/claude-code
 - Language: TypeScript
-- Stars: 2822
+- Stars: 2823
 - Why it matters: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
 
 ### 2. smallcloudai/refact
@@ -38,19 +38,19 @@ Generated: `2026-04-24T22:00:21.471882+00:00`
 ### 5. always-further/nono
 - URL: https://github.com/always-further/nono
 - Language: Rust
-- Stars: 2109
+- Stars: 2111
 - Why it matters: nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency. 
 
 ### 6. OfficeDev/microsoft-365-agents-toolkit
 - URL: https://github.com/OfficeDev/microsoft-365-agents-toolkit
 - Language: TypeScript
-- Stars: 707
+- Stars: 708
 - Why it matters: Developer tools for building Teams apps
 
 ### 7. agent-sh/agentsys
 - URL: https://github.com/agent-sh/agentsys
 - Language: JavaScript
-- Stars: 758
+- Stars: 759
 - Why it matters: AI writes code. This automates everything else · 19 plugins, 47 agents, and 40 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.
 
 ### 8. harshkedia177/axon
@@ -63,43 +63,43 @@ Generated: `2026-04-24T22:00:21.471882+00:00`
 
 ### 1. DeepSeek v4
 - URL: https://api-docs.deepseek.com/
-- Points: 1755
-- Comments: 1351
+- Points: 1768
+- Comments: 1362
 
 ### 2. I cancelled Claude: Token issues, declining quality, and poor support
 - URL: https://nickyreinert.de/en/2026/2026-04-24-claude-critics/
-- Points: 691
-- Comments: 402
+- Points: 723
+- Comments: 426
 
 ### 3. How to be anti-social – a guide to incoherent and isolating social experiences
 - URL: https://nate.leaflet.pub/3mk4xkaxobc2p
-- Points: 266
-- Comments: 265
+- Points: 283
+- Comments: 278
 
-### 4. Sabotaging projects by overthinking, scope creep, and structural diffing
+### 4. Google Plans to Invest Up to $40B in Anthropic
+- URL: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic
+- Points: 169
+- Comments: 248
+
+### 5. Sabotaging projects by overthinking, scope creep, and structural diffing
 - URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/
-- Points: 322
-- Comments: 79
+- Points: 338
+- Comments: 82
 
-### 5. Spinel: Ruby AOT Native Compiler
+### 6. Spinel: Ruby AOT Native Compiler
 - URL: https://github.com/matz/spinel
-- Points: 286
-- Comments: 79
-
-### 6. I'm done making desktop applications (2009)
-- URL: https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/
-- Points: 126
-- Comments: 147
+- Points: 296
+- Comments: 80
 
 ### 7. OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API
 - URL: https://developers.openai.com/api/docs/changelog
-- Points: 166
-- Comments: 98
+- Points: 178
+- Comments: 106
 
-### 8. SDL Now Supports DOS
-- URL: https://github.com/libsdl-org/SDL/pull/15377
-- Points: 196
-- Comments: 70
+### 8. I'm done making desktop applications (2009)
+- URL: https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/
+- Points: 133
+- Comments: 151
 
 ## App idea angles
 
