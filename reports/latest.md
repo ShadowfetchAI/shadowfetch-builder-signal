@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-24T19:00:04.317778+00:00`
+Generated: `2026-04-24T20:00:22.006715+00:00`
 
 ## What matters first
 
@@ -14,7 +14,7 @@ Generated: `2026-04-24T19:00:04.317778+00:00`
 ### 1. yasasbanukaofficial/claude-code
 - URL: https://github.com/yasasbanukaofficial/claude-code
 - Language: TypeScript
-- Stars: 2818
+- Stars: 2821
 - Why it matters: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
 
 ### 2. smallcloudai/refact
@@ -63,43 +63,43 @@ Generated: `2026-04-24T19:00:04.317778+00:00`
 
 ### 1. DeepSeek v4
 - URL: https://api-docs.deepseek.com/
-- Points: 1648
-- Comments: 1285
+- Points: 1698
+- Comments: 1316
 
 ### 2. GPT-5.5
 - URL: https://openai.com/index/introducing-gpt-5-5/
-- Points: 1500
-- Comments: 999
+- Points: 1507
+- Comments: 1009
 
 ### 3. An update on recent Claude Code quality reports
 - URL: https://www.anthropic.com/engineering/april-23-postmortem
-- Points: 886
-- Comments: 665
+- Points: 897
+- Comments: 673
 
 ### 4. US special forces soldier arrested after allegedly winning $400k on Maduro raid
 - URL: https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade
-- Points: 595
-- Comments: 638
+- Points: 609
+- Comments: 658
 
 ### 5. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
 - URL: https://socket.dev/blog/bitwarden-cli-compromised
-- Points: 837
-- Comments: 408
+- Points: 843
+- Comments: 411
 
 ### 6. I Cancelled Claude: Token Issues, Declining Quality, and Poor Support
 - URL: https://nickyreinert.de/en/2026/2026-04-24-claude-critics/
-- Points: 454
-- Comments: 262
+- Points: 550
+- Comments: 324
 
 ### 7. Norway Set to Become Latest Country to Ban Social Media for Under 16s
 - URL: https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s
-- Points: 299
-- Comments: 283
+- Points: 316
+- Comments: 319
 
 ### 8. How to be anti-social – a guide to incoherent and isolating social experiences
 - URL: https://nate.leaflet.pub/3mk4xkaxobc2p
-- Points: 211
-- Comments: 214
+- Points: 232
+- Comments: 233
 
 ## App idea angles
 
