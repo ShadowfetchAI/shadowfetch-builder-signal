@@ -1,11 +1,11 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-24T16:00:21.504899+00:00`
+Generated: `2026-04-24T17:00:21.268535+00:00`
 
 ## What matters first
 
 - Top repo signal: `yasasbanukaofficial/claude-code`
-- Top news signal: `Alberta startup sells no-tech tractors for half price`
+- Top news signal: `DeepSeek v4`
 - Repo items captured: `8`
 - News items captured: `8`
 
@@ -26,7 +26,7 @@ Generated: `2026-04-24T16:00:21.504899+00:00`
 ### 3. golutra/golutra
 - URL: https://github.com/golutra/golutra
 - Language: Rust
-- Stars: 3284
+- Stars: 3287
 - Why it matters: Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
 
 ### 4. cirosantilli/china-dictatorship
@@ -61,45 +61,45 @@ Generated: `2026-04-24T16:00:21.504899+00:00`
 
 ## Top news signals
 
-### 1. Alberta startup sells no-tech tractors for half price
-- URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/
-- Points: 2245
-- Comments: 758
-
-### 2. DeepSeek v4
+### 1. DeepSeek v4
 - URL: https://api-docs.deepseek.com/
-- Points: 1488
-- Comments: 1110
+- Points: 1550
+- Comments: 1182
 
-### 3. GPT-5.5
+### 2. GPT-5.5
 - URL: https://openai.com/index/introducing-gpt-5-5/
-- Points: 1471
-- Comments: 982
+- Points: 1485
+- Comments: 989
 
-### 4. Meta tells staff it will cut 10% of jobs
+### 3. Meta tells staff it will cut 10% of jobs
 - URL: https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency
-- Points: 729
-- Comments: 732
+- Points: 751
+- Comments: 768
 
-### 5. An update on recent Claude Code quality reports
+### 4. An update on recent Claude Code quality reports
 - URL: https://www.anthropic.com/engineering/april-23-postmortem
-- Points: 838
-- Comments: 636
+- Points: 854
+- Comments: 652
 
-### 6. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
+### 5. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
 - URL: https://socket.dev/blog/bitwarden-cli-compromised
-- Points: 825
-- Comments: 399
+- Points: 829
+- Comments: 404
 
-### 7. US special forces soldier arrested after allegedly winning $400k on Maduro raid
+### 6. US special forces soldier arrested after allegedly winning $400k on Maduro raid
 - URL: https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade
-- Points: 486
-- Comments: 532
+- Points: 537
+- Comments: 567
 
-### 8. MeshCore development team splits over trademark dispute and AI-generated code
+### 7. MeshCore development team splits over trademark dispute and AI-generated code
 - URL: https://blog.meshcore.io/2026/04/23/the-split
-- Points: 254
-- Comments: 137
+- Points: 258
+- Comments: 140
+
+### 8. Using the internet like it's 1999
+- URL: https://joshblais.com/blog/using-the-internet-like-its-1999/
+- Points: 212
+- Comments: 152
 
 ## App idea angles
 
@@ -108,7 +108,7 @@ Generated: `2026-04-24T16:00:21.504899+00:00`
 - Why now: Open-source discovery is noisy, while founders want a short list of tools that are already proving themselves.
 
 ### News-to-Action Brief
-- Thesis: Convert stories like 'Alberta startup sells no-tech tractors for half price' into practical builder implications, risks, and next actions instead of generic summaries.
+- Thesis: Convert stories like 'DeepSeek v4' into practical builder implications, risks, and next actions instead of generic summaries.
 - Why now: AI and developer news moves faster than most teams can process, so operational summaries are worth more than hot takes.
 
 ### Builder Signal Dashboard
