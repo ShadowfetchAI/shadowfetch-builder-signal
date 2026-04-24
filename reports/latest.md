@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-24T04:00:18.204371+00:00`
+Generated: `2026-04-24T05:00:17.977817+00:00`
 
 ## What matters first
 
@@ -14,7 +14,7 @@ Generated: `2026-04-24T04:00:18.204371+00:00`
 ### 1. yasasbanukaofficial/claude-code
 - URL: https://github.com/yasasbanukaofficial/claude-code
 - Language: TypeScript
-- Stars: 2800
+- Stars: 2801
 - Why it matters: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
 
 ### 2. smallcloudai/refact
@@ -38,7 +38,7 @@ Generated: `2026-04-24T04:00:18.204371+00:00`
 ### 5. always-further/nono
 - URL: https://github.com/always-further/nono
 - Language: Rust
-- Stars: 2097
+- Stars: 2098
 - Why it matters: nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency. 
 
 ### 6. OfficeDev/microsoft-365-agents-toolkit
@@ -63,42 +63,42 @@ Generated: `2026-04-24T04:00:18.204371+00:00`
 
 ### 1. Alberta startup sells no-tech tractors for half price
 - URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/
-- Points: 2160
-- Comments: 739
+- Points: 2164
+- Comments: 740
 
 ### 2. GPT-5.5
 - URL: https://openai.com/index/introducing-gpt-5-5/
-- Points: 1175
-- Comments: 802
+- Points: 1209
+- Comments: 820
 
 ### 3. I am building a cloud
 - URL: https://crawshaw.io/blog/building-a-cloud
-- Points: 1028
-- Comments: 508
+- Points: 1036
+- Comments: 514
 
 ### 4. An update on recent Claude Code quality reports
 - URL: https://www.anthropic.com/engineering/april-23-postmortem
-- Points: 602
-- Comments: 471
+- Points: 616
+- Comments: 483
 
 ### 5. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
 - URL: https://socket.dev/blog/bitwarden-cli-compromised
-- Points: 679
-- Comments: 337
+- Points: 697
+- Comments: 342
 
 ### 6. Meta tells staff it will cut 10% of jobs
 - URL: https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency
-- Points: 460
-- Comments: 434
+- Points: 496
+- Comments: 469
 
 ### 7. Your hex editor should color-code bytes
 - URL: https://simonomi.dev/blog/color-code-your-bytes/
-- Points: 526
-- Comments: 147
+- Points: 536
+- Comments: 149
 
 ### 8. French government agency confirms breach as hacker offers to sell data
 - URL: https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/
-- Points: 364
+- Points: 368
 - Comments: 123
 
 ## App idea angles
