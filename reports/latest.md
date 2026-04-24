@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-24T17:00:21.268535+00:00`
+Generated: `2026-04-24T18:00:21.239062+00:00`
 
 ## What matters first
 
@@ -26,7 +26,7 @@ Generated: `2026-04-24T17:00:21.268535+00:00`
 ### 3. golutra/golutra
 - URL: https://github.com/golutra/golutra
 - Language: Rust
-- Stars: 3287
+- Stars: 3288
 - Why it matters: Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
 
 ### 4. cirosantilli/china-dictatorship
@@ -56,50 +56,50 @@ Generated: `2026-04-24T17:00:21.268535+00:00`
 ### 8. harshkedia177/axon
 - URL: https://github.com/harshkedia177/axon
 - Language: Python
-- Stars: 670
+- Stars: 671
 - Why it matters: Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers.
 
 ## Top news signals
 
 ### 1. DeepSeek v4
 - URL: https://api-docs.deepseek.com/
-- Points: 1550
-- Comments: 1182
+- Points: 1590
+- Comments: 1242
 
 ### 2. GPT-5.5
 - URL: https://openai.com/index/introducing-gpt-5-5/
-- Points: 1485
-- Comments: 989
+- Points: 1493
+- Comments: 997
 
 ### 3. Meta tells staff it will cut 10% of jobs
 - URL: https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency
-- Points: 751
-- Comments: 768
+- Points: 764
+- Comments: 793
 
 ### 4. An update on recent Claude Code quality reports
 - URL: https://www.anthropic.com/engineering/april-23-postmortem
-- Points: 854
-- Comments: 652
+- Points: 871
+- Comments: 658
 
-### 5. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
-- URL: https://socket.dev/blog/bitwarden-cli-compromised
-- Points: 829
-- Comments: 404
-
-### 6. US special forces soldier arrested after allegedly winning $400k on Maduro raid
+### 5. US special forces soldier arrested after allegedly winning $400k on Maduro raid
 - URL: https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade
-- Points: 537
-- Comments: 567
+- Points: 569
+- Comments: 612
 
-### 7. MeshCore development team splits over trademark dispute and AI-generated code
-- URL: https://blog.meshcore.io/2026/04/23/the-split
-- Points: 258
-- Comments: 140
+### 6. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
+- URL: https://socket.dev/blog/bitwarden-cli-compromised
+- Points: 831
+- Comments: 405
 
-### 8. Using the internet like it's 1999
-- URL: https://joshblais.com/blog/using-the-internet-like-its-1999/
-- Points: 212
-- Comments: 152
+### 7. Norway Set to Become Latest Country to Ban Social Media for Under 16s
+- URL: https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s
+- Points: 260
+- Comments: 215
+
+### 8. I Cancelled Claude: Token Issues, Declining Quality, and Poor Support
+- URL: https://nickyreinert.de/en/2026/2026-04-24-claude-critics/
+- Points: 312
+- Comments: 160
 
 ## App idea angles
 

@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-04-24T17:00:21.268535+00:00",
+    "generated_at": "2026-04-24T18:00:21.239062+00:00",
     "top_repo": "yasasbanukaofficial/claude-code",
     "top_news": "DeepSeek v4",
     "repo_count": 8,
@@ -33,9 +33,9 @@
       "url": "https://github.com/golutra/golutra",
       "description": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.",
       "language": "Rust",
-      "stars": 3287,
+      "stars": 3288,
       "forks": 373,
-      "score": 4065.0
+      "score": 4066.0
     },
     {
       "bucket": "ai_agents",
@@ -54,8 +54,8 @@
       "description": "nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency. ",
       "language": "Rust",
       "stars": 2106,
-      "forks": 146,
-      "score": 2454.5
+      "forks": 147,
+      "score": 2456.5
     },
     {
       "bucket": "ai_agents",
@@ -83,9 +83,9 @@
       "url": "https://github.com/harshkedia177/axon",
       "description": "Graph-powered code intelligence engine \u2014 indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers.",
       "language": "Python",
-      "stars": 670,
+      "stars": 671,
       "forks": 115,
-      "score": 913.5
+      "score": 914.5
     }
   ],
   "news": [
@@ -93,65 +93,65 @@
       "id": "47884971",
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/",
-      "points": 1550,
-      "comments": 1182,
-      "score": 3323.0
+      "points": 1590,
+      "comments": 1242,
+      "score": 3453.0
     },
     {
       "id": "47879092",
       "title": "GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "points": 1485,
-      "comments": 989,
-      "score": 2983.5
+      "points": 1493,
+      "comments": 997,
+      "score": 3003.5
     },
     {
       "id": "47879986",
       "title": "Meta tells staff it will cut 10% of jobs",
       "url": "https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency",
-      "points": 751,
-      "comments": 768,
-      "score": 1903.0
+      "points": 764,
+      "comments": 793,
+      "score": 1953.5
     },
     {
       "id": "47878905",
       "title": "An update on recent Claude Code quality reports",
       "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "points": 854,
-      "comments": 652,
-      "score": 1832.0
-    },
-    {
-      "id": "47876043",
-      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "points": 829,
-      "comments": 404,
-      "score": 1450.0
+      "points": 871,
+      "comments": 658,
+      "score": 1858.0
     },
     {
       "id": "47882645",
       "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
       "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
-      "points": 537,
-      "comments": 567,
-      "score": 1402.5
+      "points": 569,
+      "comments": 612,
+      "score": 1502.0
     },
     {
-      "id": "47878117",
-      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "url": "https://blog.meshcore.io/2026/04/23/the-split",
-      "points": 258,
-      "comments": 140,
-      "score": 483.0
+      "id": "47876043",
+      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+      "points": 831,
+      "comments": 405,
+      "score": 1453.5
     },
     {
-      "id": "47881198",
-      "title": "Using the internet like it's 1999",
-      "url": "https://joshblais.com/blog/using-the-internet-like-its-1999/",
-      "points": 212,
-      "comments": 152,
-      "score": 455.0
+      "id": "47891019",
+      "title": "Norway Set to Become Latest Country to Ban Social Media for Under 16s",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s",
+      "points": 260,
+      "comments": 215,
+      "score": 582.5
+    },
+    {
+      "id": "47892019",
+      "title": "I Cancelled Claude: Token Issues, Declining Quality, and Poor Support",
+      "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
+      "points": 312,
+      "comments": 160,
+      "score": 552.0
     }
   ],
   "ideas": [
