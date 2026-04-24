@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-24T20:00:22.006715+00:00`
+Generated: `2026-04-24T21:00:17.980574+00:00`
 
 ## What matters first
 
@@ -38,7 +38,7 @@ Generated: `2026-04-24T20:00:22.006715+00:00`
 ### 5. always-further/nono
 - URL: https://github.com/always-further/nono
 - Language: Rust
-- Stars: 2107
+- Stars: 2109
 - Why it matters: nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency. 
 
 ### 6. OfficeDev/microsoft-365-agents-toolkit
@@ -63,43 +63,43 @@ Generated: `2026-04-24T20:00:22.006715+00:00`
 
 ### 1. DeepSeek v4
 - URL: https://api-docs.deepseek.com/
-- Points: 1698
-- Comments: 1316
+- Points: 1736
+- Comments: 1340
 
 ### 2. GPT-5.5
 - URL: https://openai.com/index/introducing-gpt-5-5/
-- Points: 1507
-- Comments: 1009
+- Points: 1515
+- Comments: 1012
 
-### 3. An update on recent Claude Code quality reports
-- URL: https://www.anthropic.com/engineering/april-23-postmortem
-- Points: 897
-- Comments: 673
-
-### 4. US special forces soldier arrested after allegedly winning $400k on Maduro raid
-- URL: https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade
-- Points: 609
-- Comments: 658
-
-### 5. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
-- URL: https://socket.dev/blog/bitwarden-cli-compromised
-- Points: 843
-- Comments: 411
-
-### 6. I Cancelled Claude: Token Issues, Declining Quality, and Poor Support
+### 3. I Cancelled Claude: Token Issues, Declining Quality, and Poor Support
 - URL: https://nickyreinert.de/en/2026/2026-04-24-claude-critics/
-- Points: 550
-- Comments: 324
+- Points: 622
+- Comments: 372
 
-### 7. Norway Set to Become Latest Country to Ban Social Media for Under 16s
+### 4. Norway set to become latest country to ban social media for under 16s
 - URL: https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s
-- Points: 316
-- Comments: 319
+- Points: 341
+- Comments: 351
 
-### 8. How to be anti-social – a guide to incoherent and isolating social experiences
+### 5. How to be anti-social – a guide to incoherent and isolating social experiences
 - URL: https://nate.leaflet.pub/3mk4xkaxobc2p
-- Points: 232
-- Comments: 233
+- Points: 251
+- Comments: 255
+
+### 6. Spinel: Ruby AOT Native Compiler
+- URL: https://github.com/matz/spinel
+- Points: 279
+- Comments: 78
+
+### 7. Sabotaging projects by overthinking, scope creep, and structural diffing
+- URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/
+- Points: 299
+- Comments: 71
+
+### 8. Why I Write (1946)
+- URL: https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/
+- Points: 259
+- Comments: 70
 
 ## App idea angles
 

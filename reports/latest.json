@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-04-24T20:00:22.006715+00:00",
+    "generated_at": "2026-04-24T21:00:17.980574+00:00",
     "top_repo": "yasasbanukaofficial/claude-code",
     "top_news": "DeepSeek v4",
     "repo_count": 8,
@@ -14,8 +14,8 @@
       "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
       "language": "TypeScript",
       "stars": 2821,
-      "forks": 4233,
-      "score": 11289.0
+      "forks": 4234,
+      "score": 11291.0
     },
     {
       "bucket": "ai_agents",
@@ -53,9 +53,9 @@
       "url": "https://github.com/always-further/nono",
       "description": "nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency. ",
       "language": "Rust",
-      "stars": 2107,
+      "stars": 2109,
       "forks": 147,
-      "score": 2457.5
+      "score": 2459.5
     },
     {
       "bucket": "ai_agents",
@@ -93,65 +93,65 @@
       "id": "47884971",
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/",
-      "points": 1698,
-      "comments": 1316,
-      "score": 3672.0
+      "points": 1736,
+      "comments": 1340,
+      "score": 3746.0
     },
     {
       "id": "47879092",
       "title": "GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "points": 1507,
-      "comments": 1009,
-      "score": 3035.5
-    },
-    {
-      "id": "47878905",
-      "title": "An update on recent Claude Code quality reports",
-      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "points": 897,
-      "comments": 673,
-      "score": 1906.5
-    },
-    {
-      "id": "47882645",
-      "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
-      "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
-      "points": 609,
-      "comments": 658,
-      "score": 1611.0
-    },
-    {
-      "id": "47876043",
-      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "points": 843,
-      "comments": 411,
-      "score": 1474.5
+      "points": 1515,
+      "comments": 1012,
+      "score": 3048.0
     },
     {
       "id": "47892019",
       "title": "I Cancelled Claude: Token Issues, Declining Quality, and Poor Support",
       "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-      "points": 550,
-      "comments": 324,
-      "score": 1036.0
+      "points": 622,
+      "comments": 372,
+      "score": 1180.0
     },
     {
       "id": "47891019",
-      "title": "Norway Set to Become Latest Country to Ban Social Media for Under 16s",
+      "title": "Norway set to become latest country to ban social media for under 16s",
       "url": "https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s",
-      "points": 316,
-      "comments": 319,
-      "score": 794.5
+      "points": 341,
+      "comments": 351,
+      "score": 867.5
     },
     {
       "id": "47888372",
       "title": "How to be anti-social \u2013 a guide to incoherent and isolating social experiences",
       "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
-      "points": 232,
-      "comments": 233,
-      "score": 581.5
+      "points": 251,
+      "comments": 255,
+      "score": 633.5
+    },
+    {
+      "id": "47887334",
+      "title": "Spinel: Ruby AOT Native Compiler",
+      "url": "https://github.com/matz/spinel",
+      "points": 279,
+      "comments": 78,
+      "score": 411.0
+    },
+    {
+      "id": "47890799",
+      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+      "points": 299,
+      "comments": 71,
+      "score": 405.5
+    },
+    {
+      "id": "47884768",
+      "title": "Why I Write (1946)",
+      "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
+      "points": 259,
+      "comments": 70,
+      "score": 364.0
     }
   ],
   "ideas": [
