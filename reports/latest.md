@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-24T18:00:21.239062+00:00`
+Generated: `2026-04-24T19:00:04.317778+00:00`
 
 ## What matters first
 
@@ -14,7 +14,7 @@ Generated: `2026-04-24T18:00:21.239062+00:00`
 ### 1. yasasbanukaofficial/claude-code
 - URL: https://github.com/yasasbanukaofficial/claude-code
 - Language: TypeScript
-- Stars: 2816
+- Stars: 2818
 - Why it matters: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
 
 ### 2. smallcloudai/refact
@@ -26,7 +26,7 @@ Generated: `2026-04-24T18:00:21.239062+00:00`
 ### 3. golutra/golutra
 - URL: https://github.com/golutra/golutra
 - Language: Rust
-- Stars: 3288
+- Stars: 3289
 - Why it matters: Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
 
 ### 4. cirosantilli/china-dictatorship
@@ -38,7 +38,7 @@ Generated: `2026-04-24T18:00:21.239062+00:00`
 ### 5. always-further/nono
 - URL: https://github.com/always-further/nono
 - Language: Rust
-- Stars: 2106
+- Stars: 2107
 - Why it matters: nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency. 
 
 ### 6. OfficeDev/microsoft-365-agents-toolkit
@@ -63,43 +63,43 @@ Generated: `2026-04-24T18:00:21.239062+00:00`
 
 ### 1. DeepSeek v4
 - URL: https://api-docs.deepseek.com/
-- Points: 1590
-- Comments: 1242
+- Points: 1648
+- Comments: 1285
 
 ### 2. GPT-5.5
 - URL: https://openai.com/index/introducing-gpt-5-5/
-- Points: 1493
-- Comments: 997
+- Points: 1500
+- Comments: 999
 
-### 3. Meta tells staff it will cut 10% of jobs
-- URL: https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency
-- Points: 764
-- Comments: 793
-
-### 4. An update on recent Claude Code quality reports
+### 3. An update on recent Claude Code quality reports
 - URL: https://www.anthropic.com/engineering/april-23-postmortem
-- Points: 871
-- Comments: 658
+- Points: 886
+- Comments: 665
 
-### 5. US special forces soldier arrested after allegedly winning $400k on Maduro raid
+### 4. US special forces soldier arrested after allegedly winning $400k on Maduro raid
 - URL: https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade
-- Points: 569
-- Comments: 612
+- Points: 595
+- Comments: 638
 
-### 6. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
+### 5. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
 - URL: https://socket.dev/blog/bitwarden-cli-compromised
-- Points: 831
-- Comments: 405
+- Points: 837
+- Comments: 408
+
+### 6. I Cancelled Claude: Token Issues, Declining Quality, and Poor Support
+- URL: https://nickyreinert.de/en/2026/2026-04-24-claude-critics/
+- Points: 454
+- Comments: 262
 
 ### 7. Norway Set to Become Latest Country to Ban Social Media for Under 16s
 - URL: https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s
-- Points: 260
-- Comments: 215
+- Points: 299
+- Comments: 283
 
-### 8. I Cancelled Claude: Token Issues, Declining Quality, and Poor Support
-- URL: https://nickyreinert.de/en/2026/2026-04-24-claude-critics/
-- Points: 312
-- Comments: 160
+### 8. How to be anti-social – a guide to incoherent and isolating social experiences
+- URL: https://nate.leaflet.pub/3mk4xkaxobc2p
+- Points: 211
+- Comments: 214
 
 ## App idea angles
 
