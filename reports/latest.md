@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-24T10:00:19.996118+00:00`
+Generated: `2026-04-24T11:00:20.331648+00:00`
 
 ## What matters first
 
@@ -14,7 +14,7 @@ Generated: `2026-04-24T10:00:19.996118+00:00`
 ### 1. yasasbanukaofficial/claude-code
 - URL: https://github.com/yasasbanukaofficial/claude-code
 - Language: TypeScript
-- Stars: 2807
+- Stars: 2808
 - Why it matters: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
 
 ### 2. smallcloudai/refact
@@ -50,7 +50,7 @@ Generated: `2026-04-24T10:00:19.996118+00:00`
 ### 7. agent-sh/agentsys
 - URL: https://github.com/agent-sh/agentsys
 - Language: JavaScript
-- Stars: 755
+- Stars: 756
 - Why it matters: AI writes code. This automates everything else · 19 plugins, 47 agents, and 40 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.
 
 ### 8. harshkedia177/axon
@@ -63,43 +63,43 @@ Generated: `2026-04-24T10:00:19.996118+00:00`
 
 ### 1. Alberta startup sells no-tech tractors for half price
 - URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/
-- Points: 2195
+- Points: 2200
 - Comments: 746
 
 ### 2. GPT-5.5
 - URL: https://openai.com/index/introducing-gpt-5-5/
-- Points: 1374
-- Comments: 903
+- Points: 1390
+- Comments: 913
 
 ### 3. DeepSeek v4
 - URL: https://api-docs.deepseek.com/
-- Points: 957
-- Comments: 604
+- Points: 1040
+- Comments: 690
 
 ### 4. An update on recent Claude Code quality reports
 - URL: https://www.anthropic.com/engineering/april-23-postmortem
-- Points: 742
-- Comments: 555
+- Points: 756
+- Comments: 571
 
 ### 5. Meta tells staff it will cut 10% of jobs
 - URL: https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency
-- Points: 603
-- Comments: 583
+- Points: 617
+- Comments: 599
 
 ### 6. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
 - URL: https://socket.dev/blog/bitwarden-cli-compromised
-- Points: 752
-- Comments: 365
+- Points: 766
+- Comments: 369
 
 ### 7. US special forces soldier arrested after allegedly winning $400k on Maduro raid
 - URL: https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade
-- Points: 248
-- Comments: 292
+- Points: 284
+- Comments: 324
 
-### 8. Incident with multple GitHub services
-- URL: https://www.githubstatus.com/incidents/myrbk7jvvs6p
-- Points: 247
-- Comments: 118
+### 8. Ubuntu 26.04
+- URL: https://lwn.net/Articles/1069399/
+- Points: 233
+- Comments: 151
 
 ## App idea angles
 
