@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-24T21:00:17.980574+00:00`
+Generated: `2026-04-24T22:00:21.471882+00:00`
 
 ## What matters first
 
@@ -14,7 +14,7 @@ Generated: `2026-04-24T21:00:17.980574+00:00`
 ### 1. yasasbanukaofficial/claude-code
 - URL: https://github.com/yasasbanukaofficial/claude-code
 - Language: TypeScript
-- Stars: 2821
+- Stars: 2822
 - Why it matters: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
 
 ### 2. smallcloudai/refact
@@ -63,42 +63,42 @@ Generated: `2026-04-24T21:00:17.980574+00:00`
 
 ### 1. DeepSeek v4
 - URL: https://api-docs.deepseek.com/
-- Points: 1736
-- Comments: 1340
+- Points: 1755
+- Comments: 1351
 
-### 2. GPT-5.5
-- URL: https://openai.com/index/introducing-gpt-5-5/
-- Points: 1515
-- Comments: 1012
-
-### 3. I Cancelled Claude: Token Issues, Declining Quality, and Poor Support
+### 2. I cancelled Claude: Token issues, declining quality, and poor support
 - URL: https://nickyreinert.de/en/2026/2026-04-24-claude-critics/
-- Points: 622
-- Comments: 372
+- Points: 691
+- Comments: 402
 
-### 4. Norway set to become latest country to ban social media for under 16s
-- URL: https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s
-- Points: 341
-- Comments: 351
-
-### 5. How to be anti-social – a guide to incoherent and isolating social experiences
+### 3. How to be anti-social – a guide to incoherent and isolating social experiences
 - URL: https://nate.leaflet.pub/3mk4xkaxobc2p
-- Points: 251
-- Comments: 255
+- Points: 266
+- Comments: 265
 
-### 6. Spinel: Ruby AOT Native Compiler
-- URL: https://github.com/matz/spinel
-- Points: 279
-- Comments: 78
-
-### 7. Sabotaging projects by overthinking, scope creep, and structural diffing
+### 4. Sabotaging projects by overthinking, scope creep, and structural diffing
 - URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/
-- Points: 299
-- Comments: 71
+- Points: 322
+- Comments: 79
 
-### 8. Why I Write (1946)
-- URL: https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/
-- Points: 259
+### 5. Spinel: Ruby AOT Native Compiler
+- URL: https://github.com/matz/spinel
+- Points: 286
+- Comments: 79
+
+### 6. I'm done making desktop applications (2009)
+- URL: https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/
+- Points: 126
+- Comments: 147
+
+### 7. OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API
+- URL: https://developers.openai.com/api/docs/changelog
+- Points: 166
+- Comments: 98
+
+### 8. SDL Now Supports DOS
+- URL: https://github.com/libsdl-org/SDL/pull/15377
+- Points: 196
 - Comments: 70
 
 ## App idea angles

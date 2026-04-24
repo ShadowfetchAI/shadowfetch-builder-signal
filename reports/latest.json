@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-04-24T21:00:17.980574+00:00",
+    "generated_at": "2026-04-24T22:00:21.471882+00:00",
     "top_repo": "yasasbanukaofficial/claude-code",
     "top_news": "DeepSeek v4",
     "repo_count": 8,
@@ -13,9 +13,9 @@
       "url": "https://github.com/yasasbanukaofficial/claude-code",
       "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
       "language": "TypeScript",
-      "stars": 2821,
-      "forks": 4234,
-      "score": 11291.0
+      "stars": 2822,
+      "forks": 4232,
+      "score": 11288.0
     },
     {
       "bucket": "ai_agents",
@@ -93,65 +93,65 @@
       "id": "47884971",
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/",
-      "points": 1736,
-      "comments": 1340,
-      "score": 3746.0
-    },
-    {
-      "id": "47879092",
-      "title": "GPT-5.5",
-      "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "points": 1515,
-      "comments": 1012,
-      "score": 3048.0
+      "points": 1755,
+      "comments": 1351,
+      "score": 3781.5
     },
     {
       "id": "47892019",
-      "title": "I Cancelled Claude: Token Issues, Declining Quality, and Poor Support",
+      "title": "I cancelled Claude: Token issues, declining quality, and poor support",
       "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-      "points": 622,
-      "comments": 372,
-      "score": 1180.0
-    },
-    {
-      "id": "47891019",
-      "title": "Norway set to become latest country to ban social media for under 16s",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s",
-      "points": 341,
-      "comments": 351,
-      "score": 867.5
+      "points": 691,
+      "comments": 402,
+      "score": 1294.0
     },
     {
       "id": "47888372",
       "title": "How to be anti-social \u2013 a guide to incoherent and isolating social experiences",
       "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
-      "points": 251,
-      "comments": 255,
-      "score": 633.5
-    },
-    {
-      "id": "47887334",
-      "title": "Spinel: Ruby AOT Native Compiler",
-      "url": "https://github.com/matz/spinel",
-      "points": 279,
-      "comments": 78,
-      "score": 411.0
+      "points": 266,
+      "comments": 265,
+      "score": 663.5
     },
     {
       "id": "47890799",
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "points": 299,
-      "comments": 71,
-      "score": 405.5
+      "points": 322,
+      "comments": 79,
+      "score": 440.5
     },
     {
-      "id": "47884768",
-      "title": "Why I Write (1946)",
-      "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
-      "points": 259,
+      "id": "47887334",
+      "title": "Spinel: Ruby AOT Native Compiler",
+      "url": "https://github.com/matz/spinel",
+      "points": 286,
+      "comments": 79,
+      "score": 419.5
+    },
+    {
+      "id": "47891801",
+      "title": "I'm done making desktop applications (2009)",
+      "url": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
+      "points": 126,
+      "comments": 147,
+      "score": 346.5
+    },
+    {
+      "id": "47894000",
+      "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "points": 166,
+      "comments": 98,
+      "score": 343.0
+    },
+    {
+      "id": "47892291",
+      "title": "SDL Now Supports DOS",
+      "url": "https://github.com/libsdl-org/SDL/pull/15377",
+      "points": 196,
       "comments": 70,
-      "score": 364.0
+      "score": 316.0
     }
   ],
   "ideas": [
