@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-24T06:00:20.802996+00:00`
+Generated: `2026-04-24T07:00:20.057757+00:00`
 
 ## What matters first
 
@@ -26,7 +26,7 @@ Generated: `2026-04-24T06:00:20.802996+00:00`
 ### 3. golutra/golutra
 - URL: https://github.com/golutra/golutra
 - Language: Rust
-- Stars: 3268
+- Stars: 3269
 - Why it matters: Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
 
 ### 4. cirosantilli/china-dictatorship
@@ -63,43 +63,43 @@ Generated: `2026-04-24T06:00:20.802996+00:00`
 
 ### 1. Alberta startup sells no-tech tractors for half price
 - URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/
-- Points: 2173
-- Comments: 741
+- Points: 2176
+- Comments: 743
 
 ### 2. GPT-5.5
 - URL: https://openai.com/index/introducing-gpt-5-5/
-- Points: 1240
-- Comments: 839
+- Points: 1285
+- Comments: 857
 
 ### 3. I am building a cloud
 - URL: https://crawshaw.io/blog/building-a-cloud
-- Points: 1042
-- Comments: 518
+- Points: 1045
+- Comments: 526
 
 ### 4. An update on recent Claude Code quality reports
 - URL: https://www.anthropic.com/engineering/april-23-postmortem
-- Points: 641
-- Comments: 495
+- Points: 666
+- Comments: 507
 
 ### 5. Meta tells staff it will cut 10% of jobs
 - URL: https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency
-- Points: 522
-- Comments: 497
+- Points: 551
+- Comments: 524
 
 ### 6. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
 - URL: https://socket.dev/blog/bitwarden-cli-compromised
-- Points: 710
-- Comments: 347
+- Points: 726
+- Comments: 356
 
-### 7. Your hex editor should color-code bytes
-- URL: https://simonomi.dev/blog/color-code-your-bytes/
-- Points: 547
-- Comments: 150
-
-### 8. DeepSeek v4
+### 7. DeepSeek v4
 - URL: https://api-docs.deepseek.com/
-- Points: 455
-- Comments: 183
+- Points: 590
+- Comments: 287
+
+### 8. Your hex editor should color-code bytes
+- URL: https://simonomi.dev/blog/color-code-your-bytes/
+- Points: 561
+- Comments: 151
 
 ## App idea angles
 
