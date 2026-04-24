@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-23T23:00:21.079781+00:00`
+Generated: `2026-04-24T00:00:21.878373+00:00`
 
 ## What matters first
 
@@ -14,7 +14,7 @@ Generated: `2026-04-23T23:00:21.079781+00:00`
 ### 1. yasasbanukaofficial/claude-code
 - URL: https://github.com/yasasbanukaofficial/claude-code
 - Language: TypeScript
-- Stars: 2796
+- Stars: 2797
 - Why it matters: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
 
 ### 2. smallcloudai/refact
@@ -26,7 +26,7 @@ Generated: `2026-04-23T23:00:21.079781+00:00`
 ### 3. golutra/golutra
 - URL: https://github.com/golutra/golutra
 - Language: Rust
-- Stars: 3266
+- Stars: 3268
 - Why it matters: Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
 
 ### 4. cirosantilli/china-dictatorship
@@ -38,7 +38,7 @@ Generated: `2026-04-23T23:00:21.079781+00:00`
 ### 5. always-further/nono
 - URL: https://github.com/always-further/nono
 - Language: Rust
-- Stars: 2093
+- Stars: 2094
 - Why it matters: nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency. 
 
 ### 6. OfficeDev/microsoft-365-agents-toolkit
@@ -56,50 +56,50 @@ Generated: `2026-04-23T23:00:21.079781+00:00`
 ### 8. harshkedia177/axon
 - URL: https://github.com/harshkedia177/axon
 - Language: Python
-- Stars: 669
+- Stars: 670
 - Why it matters: Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers.
 
 ## Top news signals
 
 ### 1. Alberta startup sells no-tech tractors for half price
 - URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/
-- Points: 2126
-- Comments: 729
+- Points: 2135
+- Comments: 730
 
 ### 2. GPT-5.5
 - URL: https://openai.com/index/introducing-gpt-5-5/
-- Points: 930
-- Comments: 572
+- Points: 994
+- Comments: 643
 
 ### 3. I am building a cloud
 - URL: https://crawshaw.io/blog/building-a-cloud
-- Points: 947
-- Comments: 468
+- Points: 963
+- Comments: 481
 
 ### 4. If America's so rich, how'd it get so sad?
 - URL: https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so
-- Points: 376
-- Comments: 690
+- Points: 406
+- Comments: 730
 
 ### 5. Palantir employees are starting to wonder if they're the bad guys
 - URL: https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/
-- Points: 582
-- Comments: 413
+- Points: 643
+- Comments: 458
 
-### 6. Apple fixes bug that cops used to extract deleted chat messages from iPhones
-- URL: https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/
-- Points: 839
-- Comments: 181
-
-### 7. An update on recent Claude Code quality reports
+### 6. An update on recent Claude Code quality reports
 - URL: https://www.anthropic.com/engineering/april-23-postmortem
-- Points: 487
-- Comments: 366
+- Points: 523
+- Comments: 395
 
-### 8. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
+### 7. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
 - URL: https://socket.dev/blog/bitwarden-cli-compromised
-- Points: 580
-- Comments: 270
+- Points: 609
+- Comments: 285
+
+### 8. Your hex editor should color-code bytes
+- URL: https://simonomi.dev/blog/color-code-your-bytes/
+- Points: 484
+- Comments: 140
 
 ## App idea angles
 
