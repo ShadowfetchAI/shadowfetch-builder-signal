@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-24T05:05:44.123157+00:00`
+Generated: `2026-04-24T06:00:20.802996+00:00`
 
 ## What matters first
 
@@ -63,43 +63,43 @@ Generated: `2026-04-24T05:05:44.123157+00:00`
 
 ### 1. Alberta startup sells no-tech tractors for half price
 - URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/
-- Points: 2164
-- Comments: 740
+- Points: 2173
+- Comments: 741
 
 ### 2. GPT-5.5
 - URL: https://openai.com/index/introducing-gpt-5-5/
-- Points: 1209
-- Comments: 824
+- Points: 1240
+- Comments: 839
 
 ### 3. I am building a cloud
 - URL: https://crawshaw.io/blog/building-a-cloud
-- Points: 1036
-- Comments: 514
+- Points: 1042
+- Comments: 518
 
 ### 4. An update on recent Claude Code quality reports
 - URL: https://www.anthropic.com/engineering/april-23-postmortem
-- Points: 617
-- Comments: 484
+- Points: 641
+- Comments: 495
 
-### 5. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
-- URL: https://socket.dev/blog/bitwarden-cli-compromised
-- Points: 697
-- Comments: 342
-
-### 6. Meta tells staff it will cut 10% of jobs
+### 5. Meta tells staff it will cut 10% of jobs
 - URL: https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency
-- Points: 497
-- Comments: 471
+- Points: 522
+- Comments: 497
+
+### 6. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
+- URL: https://socket.dev/blog/bitwarden-cli-compromised
+- Points: 710
+- Comments: 347
 
 ### 7. Your hex editor should color-code bytes
 - URL: https://simonomi.dev/blog/color-code-your-bytes/
-- Points: 537
-- Comments: 149
+- Points: 547
+- Comments: 150
 
-### 8. French government agency confirms breach as hacker offers to sell data
-- URL: https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/
-- Points: 369
-- Comments: 123
+### 8. DeepSeek v4
+- URL: https://api-docs.deepseek.com/
+- Points: 455
+- Comments: 183
 
 ## App idea angles
 
