@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-24T12:00:19.561355+00:00`
+Generated: `2026-04-24T13:00:22.789650+00:00`
 
 ## What matters first
 
@@ -14,7 +14,7 @@ Generated: `2026-04-24T12:00:19.561355+00:00`
 ### 1. yasasbanukaofficial/claude-code
 - URL: https://github.com/yasasbanukaofficial/claude-code
 - Language: TypeScript
-- Stars: 2812
+- Stars: 2814
 - Why it matters: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
 
 ### 2. smallcloudai/refact
@@ -26,7 +26,7 @@ Generated: `2026-04-24T12:00:19.561355+00:00`
 ### 3. golutra/golutra
 - URL: https://github.com/golutra/golutra
 - Language: Rust
-- Stars: 3274
+- Stars: 3275
 - Why it matters: Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
 
 ### 4. cirosantilli/china-dictatorship
@@ -38,7 +38,7 @@ Generated: `2026-04-24T12:00:19.561355+00:00`
 ### 5. always-further/nono
 - URL: https://github.com/always-further/nono
 - Language: Rust
-- Stars: 2101
+- Stars: 2103
 - Why it matters: nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency. 
 
 ### 6. OfficeDev/microsoft-365-agents-toolkit
@@ -63,43 +63,43 @@ Generated: `2026-04-24T12:00:19.561355+00:00`
 
 ### 1. Alberta startup sells no-tech tractors for half price
 - URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/
-- Points: 2210
-- Comments: 747
+- Points: 2218
+- Comments: 750
 
 ### 2. GPT-5.5
 - URL: https://openai.com/index/introducing-gpt-5-5/
-- Points: 1403
-- Comments: 929
+- Points: 1415
+- Comments: 945
 
 ### 3. DeepSeek v4
 - URL: https://api-docs.deepseek.com/
-- Points: 1112
-- Comments: 765
+- Points: 1199
+- Comments: 841
 
 ### 4. An update on recent Claude Code quality reports
 - URL: https://www.anthropic.com/engineering/april-23-postmortem
-- Points: 768
-- Comments: 599
+- Points: 784
+- Comments: 606
 
 ### 5. Meta tells staff it will cut 10% of jobs
 - URL: https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency
-- Points: 638
-- Comments: 615
+- Points: 653
+- Comments: 632
 
 ### 6. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
 - URL: https://socket.dev/blog/bitwarden-cli-compromised
-- Points: 781
-- Comments: 376
+- Points: 793
+- Comments: 381
 
 ### 7. US special forces soldier arrested after allegedly winning $400k on Maduro raid
 - URL: https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade
-- Points: 313
-- Comments: 357
+- Points: 343
+- Comments: 389
 
 ### 8. MeshCore development team splits over trademark dispute and AI-generated code
 - URL: https://blog.meshcore.io/2026/04/23/the-split
-- Points: 231
-- Comments: 125
+- Points: 236
+- Comments: 126
 
 ## App idea angles
 
