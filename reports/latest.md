@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-24T03:00:20.365164+00:00`
+Generated: `2026-04-24T04:00:18.204371+00:00`
 
 ## What matters first
 
@@ -14,7 +14,7 @@ Generated: `2026-04-24T03:00:20.365164+00:00`
 ### 1. yasasbanukaofficial/claude-code
 - URL: https://github.com/yasasbanukaofficial/claude-code
 - Language: TypeScript
-- Stars: 2799
+- Stars: 2800
 - Why it matters: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
 
 ### 2. smallcloudai/refact
@@ -38,7 +38,7 @@ Generated: `2026-04-24T03:00:20.365164+00:00`
 ### 5. always-further/nono
 - URL: https://github.com/always-further/nono
 - Language: Rust
-- Stars: 2096
+- Stars: 2097
 - Why it matters: nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency. 
 
 ### 6. OfficeDev/microsoft-365-agents-toolkit
@@ -63,43 +63,43 @@ Generated: `2026-04-24T03:00:20.365164+00:00`
 
 ### 1. Alberta startup sells no-tech tractors for half price
 - URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/
-- Points: 2152
-- Comments: 737
+- Points: 2160
+- Comments: 739
 
 ### 2. GPT-5.5
 - URL: https://openai.com/index/introducing-gpt-5-5/
-- Points: 1138
-- Comments: 789
+- Points: 1175
+- Comments: 802
 
 ### 3. I am building a cloud
 - URL: https://crawshaw.io/blog/building-a-cloud
-- Points: 1010
-- Comments: 497
+- Points: 1028
+- Comments: 508
 
-### 4. Palantir employees are starting to wonder if they're the bad guys
-- URL: https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/
-- Points: 770
-- Comments: 524
-
-### 5. An update on recent Claude Code quality reports
+### 4. An update on recent Claude Code quality reports
 - URL: https://www.anthropic.com/engineering/april-23-postmortem
-- Points: 591
-- Comments: 451
+- Points: 602
+- Comments: 471
 
-### 6. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
+### 5. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
 - URL: https://socket.dev/blog/bitwarden-cli-compromised
-- Points: 666
-- Comments: 331
+- Points: 679
+- Comments: 337
 
-### 7. Meta tells staff it will cut 10% of jobs
+### 6. Meta tells staff it will cut 10% of jobs
 - URL: https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency
-- Points: 411
-- Comments: 380
+- Points: 460
+- Comments: 434
 
-### 8. Your hex editor should color-code bytes
+### 7. Your hex editor should color-code bytes
 - URL: https://simonomi.dev/blog/color-code-your-bytes/
-- Points: 517
-- Comments: 143
+- Points: 526
+- Comments: 147
+
+### 8. French government agency confirms breach as hacker offers to sell data
+- URL: https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/
+- Points: 364
+- Comments: 123
 
 ## App idea angles
 
