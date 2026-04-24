@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-24T08:00:20.346334+00:00`
+Generated: `2026-04-24T09:00:20.111088+00:00`
 
 ## What matters first
 
@@ -14,7 +14,7 @@ Generated: `2026-04-24T08:00:20.346334+00:00`
 ### 1. yasasbanukaofficial/claude-code
 - URL: https://github.com/yasasbanukaofficial/claude-code
 - Language: TypeScript
-- Stars: 2802
+- Stars: 2805
 - Why it matters: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
 
 ### 2. smallcloudai/refact
@@ -26,7 +26,7 @@ Generated: `2026-04-24T08:00:20.346334+00:00`
 ### 3. golutra/golutra
 - URL: https://github.com/golutra/golutra
 - Language: Rust
-- Stars: 3270
+- Stars: 3271
 - Why it matters: Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
 
 ### 4. cirosantilli/china-dictatorship
@@ -63,43 +63,43 @@ Generated: `2026-04-24T08:00:20.346334+00:00`
 
 ### 1. Alberta startup sells no-tech tractors for half price
 - URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/
-- Points: 2179
-- Comments: 744
+- Points: 2190
+- Comments: 745
 
 ### 2. GPT-5.5
 - URL: https://openai.com/index/introducing-gpt-5-5/
-- Points: 1327
-- Comments: 876
+- Points: 1356
+- Comments: 892
 
 ### 3. I am building a cloud
 - URL: https://crawshaw.io/blog/building-a-cloud
-- Points: 1052
-- Comments: 527
+- Points: 1060
+- Comments: 532
 
-### 4. An update on recent Claude Code quality reports
-- URL: https://www.anthropic.com/engineering/april-23-postmortem
-- Points: 706
-- Comments: 523
-
-### 5. Meta tells staff it will cut 10% of jobs
-- URL: https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency
-- Points: 577
-- Comments: 550
-
-### 6. DeepSeek v4
+### 4. DeepSeek v4
 - URL: https://api-docs.deepseek.com/
-- Points: 742
-- Comments: 410
+- Points: 869
+- Comments: 521
+
+### 5. An update on recent Claude Code quality reports
+- URL: https://www.anthropic.com/engineering/april-23-postmortem
+- Points: 726
+- Comments: 542
+
+### 6. Meta tells staff it will cut 10% of jobs
+- URL: https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency
+- Points: 591
+- Comments: 569
 
 ### 7. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
 - URL: https://socket.dev/blog/bitwarden-cli-compromised
-- Points: 742
-- Comments: 361
+- Points: 748
+- Comments: 365
 
-### 8. Your hex editor should color-code bytes
-- URL: https://simonomi.dev/blog/color-code-your-bytes/
-- Points: 569
-- Comments: 151
+### 8. US special forces soldier arrested after allegedly winning $400k on Maduro raid
+- URL: https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade
+- Points: 218
+- Comments: 268
 
 ## App idea angles
 
