@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-04-24T05:00:17.977817+00:00",
+    "generated_at": "2026-04-24T05:05:44.123157+00:00",
     "top_repo": "yasasbanukaofficial/claude-code",
     "top_news": "Alberta startup sells no-tech tractors for half price",
     "repo_count": 8,
@@ -14,8 +14,8 @@
       "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
       "language": "TypeScript",
       "stars": 2801,
-      "forks": 4223,
-      "score": 11249.0
+      "forks": 4224,
+      "score": 11251.0
     },
     {
       "bucket": "ai_agents",
@@ -102,8 +102,8 @@
       "title": "GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5/",
       "points": 1209,
-      "comments": 820,
-      "score": 2454.0
+      "comments": 824,
+      "score": 2460.0
     },
     {
       "id": "47872324",
@@ -117,9 +117,9 @@
       "id": "47878905",
       "title": "An update on recent Claude Code quality reports",
       "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "points": 616,
-      "comments": 483,
-      "score": 1340.5
+      "points": 617,
+      "comments": 484,
+      "score": 1343.0
     },
     {
       "id": "47876043",
@@ -133,25 +133,25 @@
       "id": "47879986",
       "title": "Meta tells staff it will cut 10% of jobs",
       "url": "https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency",
-      "points": 496,
-      "comments": 469,
-      "score": 1199.5
+      "points": 497,
+      "comments": 471,
+      "score": 1203.5
     },
     {
       "id": "47846688",
       "title": "Your hex editor should color-code bytes",
       "url": "https://simonomi.dev/blog/color-code-your-bytes/",
-      "points": 536,
+      "points": 537,
       "comments": 149,
-      "score": 759.5
+      "score": 760.5
     },
     {
       "id": "47877366",
       "title": "French government agency confirms breach as hacker offers to sell data",
       "url": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
-      "points": 368,
+      "points": 369,
       "comments": 123,
-      "score": 552.5
+      "score": 553.5
     }
   ],
   "ideas": [

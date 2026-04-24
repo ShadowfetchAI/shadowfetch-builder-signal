@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-24T05:00:17.977817+00:00`
+Generated: `2026-04-24T05:05:44.123157+00:00`
 
 ## What matters first
 
@@ -69,7 +69,7 @@ Generated: `2026-04-24T05:00:17.977817+00:00`
 ### 2. GPT-5.5
 - URL: https://openai.com/index/introducing-gpt-5-5/
 - Points: 1209
-- Comments: 820
+- Comments: 824
 
 ### 3. I am building a cloud
 - URL: https://crawshaw.io/blog/building-a-cloud
@@ -78,8 +78,8 @@ Generated: `2026-04-24T05:00:17.977817+00:00`
 
 ### 4. An update on recent Claude Code quality reports
 - URL: https://www.anthropic.com/engineering/april-23-postmortem
-- Points: 616
-- Comments: 483
+- Points: 617
+- Comments: 484
 
 ### 5. Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
 - URL: https://socket.dev/blog/bitwarden-cli-compromised
@@ -88,17 +88,17 @@ Generated: `2026-04-24T05:00:17.977817+00:00`
 
 ### 6. Meta tells staff it will cut 10% of jobs
 - URL: https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency
-- Points: 496
-- Comments: 469
+- Points: 497
+- Comments: 471
 
 ### 7. Your hex editor should color-code bytes
 - URL: https://simonomi.dev/blog/color-code-your-bytes/
-- Points: 536
+- Points: 537
 - Comments: 149
 
 ### 8. French government agency confirms breach as hacker offers to sell data
 - URL: https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/
-- Points: 368
+- Points: 369
 - Comments: 123
 
 ## App idea angles
