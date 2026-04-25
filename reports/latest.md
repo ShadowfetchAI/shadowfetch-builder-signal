@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-25T13:00:17.922047+00:00`
+Generated: `2026-04-25T14:00:20.227848+00:00`
 
 ## What matters first
 
@@ -14,7 +14,7 @@ Generated: `2026-04-25T13:00:17.922047+00:00`
 ### 1. yasasbanukaofficial/claude-code
 - URL: https://github.com/yasasbanukaofficial/claude-code
 - Language: TypeScript
-- Stars: 2838
+- Stars: 2840
 - Why it matters: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
 
 ### 2. smallcloudai/refact
@@ -63,43 +63,43 @@ Generated: `2026-04-25T13:00:17.922047+00:00`
 
 ### 1. DeepSeek v4
 - URL: https://api-docs.deepseek.com/news/news260424
-- Points: 1958
-- Comments: 1502
+- Points: 1976
+- Comments: 1511
 
 ### 2. Google plans to invest up to $40B in Anthropic
 - URL: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic
-- Points: 643
-- Comments: 636
+- Points: 657
+- Comments: 661
 
 ### 3. Sabotaging projects by overthinking, scope creep, and structural diffing
 - URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/
-- Points: 458
-- Comments: 112
+- Points: 469
+- Comments: 113
 
-### 4. Firefox Has Integrated Brave's Adblock Engine
-- URL: https://itsfoss.com/news/firefox-ships-brave-adblock-engine/
-- Points: 296
-- Comments: 148
-
-### 5. New 10 GbE USB adapters are cooler, smaller, cheaper
+### 4. New 10 GbE USB adapters are cooler, smaller, cheaper
 - URL: https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/
-- Points: 288
-- Comments: 138
+- Points: 322
+- Comments: 163
+
+### 5. Firefox Has Integrated Brave's Adblock Engine
+- URL: https://itsfoss.com/news/firefox-ships-brave-adblock-engine/
+- Points: 311
+- Comments: 162
 
 ### 6. Email could have been X.400 times better
 - URL: https://buttondown.com/blog/x400-vs-smtp-email
-- Points: 195
-- Comments: 163
+- Points: 206
+- Comments: 171
 
 ### 7. There Will Be a Scientific Theory of Deep Learning
 - URL: https://arxiv.org/abs/2604.21691
-- Points: 271
-- Comments: 119
+- Points: 285
+- Comments: 120
 
-### 8. The Classic American Diner
-- URL: https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/
-- Points: 235
-- Comments: 141
+### 8. My audio interface has SSH enabled by default
+- URL: https://hhh.hn/rodecaster-duo-fw/
+- Points: 273
+- Comments: 83
 
 ## App idea angles
 

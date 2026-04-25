@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-04-25T13:00:17.922047+00:00",
+    "generated_at": "2026-04-25T14:00:20.227848+00:00",
     "top_repo": "yasasbanukaofficial/claude-code",
     "top_news": "DeepSeek v4",
     "repo_count": 8,
@@ -13,9 +13,9 @@
       "url": "https://github.com/yasasbanukaofficial/claude-code",
       "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
       "language": "TypeScript",
-      "stars": 2838,
-      "forks": 4253,
-      "score": 11346.0
+      "stars": 2840,
+      "forks": 4254,
+      "score": 11350.0
     },
     {
       "bucket": "ai_agents",
@@ -93,65 +93,65 @@
       "id": "47884971",
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/news/news260424",
-      "points": 1958,
-      "comments": 1502,
-      "score": 4211.0
+      "points": 1976,
+      "comments": 1511,
+      "score": 4242.5
     },
     {
       "id": "47892074",
       "title": "Google plans to invest up to $40B in Anthropic",
       "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "points": 643,
-      "comments": 636,
-      "score": 1597.0
+      "points": 657,
+      "comments": 661,
+      "score": 1648.5
     },
     {
       "id": "47890799",
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "points": 458,
-      "comments": 112,
-      "score": 626.0
-    },
-    {
-      "id": "47897891",
-      "title": "Firefox Has Integrated Brave's Adblock Engine",
-      "url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
-      "points": 296,
-      "comments": 148,
-      "score": 518.0
+      "points": 469,
+      "comments": 113,
+      "score": 638.5
     },
     {
       "id": "47899053",
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
       "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "points": 288,
-      "comments": 138,
-      "score": 495.0
+      "points": 322,
+      "comments": 163,
+      "score": 566.5
+    },
+    {
+      "id": "47897891",
+      "title": "Firefox Has Integrated Brave's Adblock Engine",
+      "url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
+      "points": 311,
+      "comments": 162,
+      "score": 554.0
     },
     {
       "id": "47873323",
       "title": "Email could have been X.400 times better",
       "url": "https://buttondown.com/blog/x400-vs-smtp-email",
-      "points": 195,
-      "comments": 163,
-      "score": 454.5
+      "points": 206,
+      "comments": 171,
+      "score": 477.5
     },
     {
       "id": "47893779",
       "title": "There Will Be a Scientific Theory of Deep Learning",
       "url": "https://arxiv.org/abs/2604.21691",
-      "points": 271,
-      "comments": 119,
-      "score": 449.5
+      "points": 285,
+      "comments": 120,
+      "score": 465.0
     },
     {
-      "id": "47894435",
-      "title": "The Classic American Diner",
-      "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
-      "points": 235,
-      "comments": 141,
-      "score": 446.5
+      "id": "47894747",
+      "title": "My audio interface has SSH enabled by default",
+      "url": "https://hhh.hn/rodecaster-duo-fw/",
+      "points": 273,
+      "comments": 83,
+      "score": 397.5
     }
   ],
   "ideas": [
