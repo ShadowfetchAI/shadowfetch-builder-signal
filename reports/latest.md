@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-25T11:00:19.467093+00:00`
+Generated: `2026-04-25T12:00:16.509849+00:00`
 
 ## What matters first
 
@@ -14,7 +14,7 @@ Generated: `2026-04-25T11:00:19.467093+00:00`
 ### 1. yasasbanukaofficial/claude-code
 - URL: https://github.com/yasasbanukaofficial/claude-code
 - Language: TypeScript
-- Stars: 2833
+- Stars: 2837
 - Why it matters: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
 
 ### 2. smallcloudai/refact
@@ -56,50 +56,50 @@ Generated: `2026-04-25T11:00:19.467093+00:00`
 ### 8. harshkedia177/axon
 - URL: https://github.com/harshkedia177/axon
 - Language: Python
-- Stars: 671
+- Stars: 672
 - Why it matters: Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers.
 
 ## Top news signals
 
 ### 1. DeepSeek v4
 - URL: https://api-docs.deepseek.com/news/news260424
-- Points: 1928
-- Comments: 1486
+- Points: 1942
+- Comments: 1491
 
 ### 2. Google plans to invest up to $40B in Anthropic
 - URL: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic
-- Points: 601
-- Comments: 581
+- Points: 624
+- Comments: 611
 
 ### 3. Sabotaging projects by overthinking, scope creep, and structural diffing
 - URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/
-- Points: 440
-- Comments: 109
+- Points: 449
+- Comments: 110
 
-### 4. MacBook Neo and how the iPad should be
-- URL: https://craigmod.com/essays/ipad_neo/
-- Points: 282
-- Comments: 164
-
-### 5. Firefox Has Integrated Brave's Adblock Engine
+### 4. Firefox Has Integrated Brave's Adblock Engine
 - URL: https://itsfoss.com/news/firefox-ships-brave-adblock-engine/
-- Points: 255
-- Comments: 128
+- Points: 271
+- Comments: 140
 
-### 6. Email could have been X.400 times better
+### 5. Email could have been X.400 times better
 - URL: https://buttondown.com/blog/x400-vs-smtp-email
-- Points: 186
-- Comments: 152
+- Points: 191
+- Comments: 159
 
-### 7. The Classic American Diner
+### 6. The Classic American Diner
 - URL: https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/
-- Points: 224
-- Comments: 135
+- Points: 229
+- Comments: 137
 
-### 8. There Will Be a Scientific Theory of Deep Learning
+### 7. There Will Be a Scientific Theory of Deep Learning
 - URL: https://arxiv.org/abs/2604.21691
-- Points: 248
-- Comments: 111
+- Points: 259
+- Comments: 114
+
+### 8. New 10 GbE USB adapters are cooler, smaller, cheaper
+- URL: https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/
+- Points: 244
+- Comments: 110
 
 ## App idea angles
 
