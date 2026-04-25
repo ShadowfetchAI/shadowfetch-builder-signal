@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-04-25T08:00:15.694441+00:00",
+    "generated_at": "2026-04-25T09:00:15.981080+00:00",
     "top_repo": "yasasbanukaofficial/claude-code",
     "top_news": "DeepSeek v4",
     "repo_count": 8,
@@ -13,9 +13,9 @@
       "url": "https://github.com/yasasbanukaofficial/claude-code",
       "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
       "language": "TypeScript",
-      "stars": 2827,
-      "forks": 4243,
-      "score": 11315.0
+      "stars": 2831,
+      "forks": 4246,
+      "score": 11325.0
     },
     {
       "bucket": "ai_agents",
@@ -33,9 +33,9 @@
       "url": "https://github.com/golutra/golutra",
       "description": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.",
       "language": "Rust",
-      "stars": 3293,
+      "stars": 3294,
       "forks": 373,
-      "score": 4071.0
+      "score": 4072.0
     },
     {
       "bucket": "ai_agents",
@@ -55,7 +55,7 @@
       "language": "Rust",
       "stars": 2113,
       "forks": 147,
-      "score": 2464.5
+      "score": 2463.0
     },
     {
       "bucket": "ai_agents",
@@ -93,65 +93,65 @@
       "id": "47884971",
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/news/news260424",
-      "points": 1886,
-      "comments": 1470,
-      "score": 4091.0
+      "points": 1897,
+      "comments": 1474,
+      "score": 4108.0
     },
     {
       "id": "47892074",
       "title": "Google plans to invest up to $40B in Anthropic",
       "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "points": 549,
-      "comments": 536,
-      "score": 1353.0
+      "points": 566,
+      "comments": 552,
+      "score": 1394.0
     },
     {
       "id": "47890799",
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "points": 413,
-      "comments": 106,
-      "score": 572.0
+      "points": 423,
+      "comments": 107,
+      "score": 583.5
     },
     {
       "id": "47872306",
       "title": "MacBook Neo and how the iPad should be",
       "url": "https://craigmod.com/essays/ipad_neo/",
-      "points": 259,
-      "comments": 143,
-      "score": 488.5
-    },
-    {
-      "id": "47873323",
-      "title": "Email could have been X.400 times better",
-      "url": "https://buttondown.com/blog/x400-vs-smtp-email",
-      "points": 168,
+      "points": 267,
       "comments": 148,
-      "score": 405.0
+      "score": 504.0
     },
     {
       "id": "47894435",
       "title": "The Classic American Diner",
       "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
-      "points": 211,
-      "comments": 128,
-      "score": 403.0
+      "points": 215,
+      "comments": 131,
+      "score": 411.5
+    },
+    {
+      "id": "47873323",
+      "title": "Email could have been X.400 times better",
+      "url": "https://buttondown.com/blog/x400-vs-smtp-email",
+      "points": 170,
+      "comments": 148,
+      "score": 407.0
     },
     {
       "id": "47893779",
       "title": "There Will Be a Scientific Theory of Deep Learning",
       "url": "https://arxiv.org/abs/2604.21691",
-      "points": 211,
-      "comments": 88,
-      "score": 343.0
+      "points": 224,
+      "comments": 96,
+      "score": 368.0
     },
     {
-      "id": "47894747",
-      "title": "My audio interface has SSH enabled by default",
-      "url": "https://hhh.hn/rodecaster-duo-fw/",
-      "points": 228,
-      "comments": 76,
-      "score": 342.0
+      "id": "47897891",
+      "title": "Firefox Has Integrated Brave's Adblock Engine",
+      "url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
+      "points": 206,
+      "comments": 103,
+      "score": 360.5
     }
   ],
   "ideas": [

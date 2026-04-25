@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-25T08:00:15.694441+00:00`
+Generated: `2026-04-25T09:00:15.981080+00:00`
 
 ## What matters first
 
@@ -14,7 +14,7 @@ Generated: `2026-04-25T08:00:15.694441+00:00`
 ### 1. yasasbanukaofficial/claude-code
 - URL: https://github.com/yasasbanukaofficial/claude-code
 - Language: TypeScript
-- Stars: 2827
+- Stars: 2831
 - Why it matters: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
 
 ### 2. smallcloudai/refact
@@ -26,7 +26,7 @@ Generated: `2026-04-25T08:00:15.694441+00:00`
 ### 3. golutra/golutra
 - URL: https://github.com/golutra/golutra
 - Language: Rust
-- Stars: 3293
+- Stars: 3294
 - Why it matters: Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
 
 ### 4. cirosantilli/china-dictatorship
@@ -63,43 +63,43 @@ Generated: `2026-04-25T08:00:15.694441+00:00`
 
 ### 1. DeepSeek v4
 - URL: https://api-docs.deepseek.com/news/news260424
-- Points: 1886
-- Comments: 1470
+- Points: 1897
+- Comments: 1474
 
 ### 2. Google plans to invest up to $40B in Anthropic
 - URL: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic
-- Points: 549
-- Comments: 536
+- Points: 566
+- Comments: 552
 
 ### 3. Sabotaging projects by overthinking, scope creep, and structural diffing
 - URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/
-- Points: 413
-- Comments: 106
+- Points: 423
+- Comments: 107
 
 ### 4. MacBook Neo and how the iPad should be
 - URL: https://craigmod.com/essays/ipad_neo/
-- Points: 259
-- Comments: 143
-
-### 5. Email could have been X.400 times better
-- URL: https://buttondown.com/blog/x400-vs-smtp-email
-- Points: 168
+- Points: 267
 - Comments: 148
 
-### 6. The Classic American Diner
+### 5. The Classic American Diner
 - URL: https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/
-- Points: 211
-- Comments: 128
+- Points: 215
+- Comments: 131
+
+### 6. Email could have been X.400 times better
+- URL: https://buttondown.com/blog/x400-vs-smtp-email
+- Points: 170
+- Comments: 148
 
 ### 7. There Will Be a Scientific Theory of Deep Learning
 - URL: https://arxiv.org/abs/2604.21691
-- Points: 211
-- Comments: 88
+- Points: 224
+- Comments: 96
 
-### 8. My audio interface has SSH enabled by default
-- URL: https://hhh.hn/rodecaster-duo-fw/
-- Points: 228
-- Comments: 76
+### 8. Firefox Has Integrated Brave's Adblock Engine
+- URL: https://itsfoss.com/news/firefox-ships-brave-adblock-engine/
+- Points: 206
+- Comments: 103
 
 ## App idea angles
 
