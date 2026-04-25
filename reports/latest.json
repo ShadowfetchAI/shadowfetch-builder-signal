@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-04-25T15:00:17.666884+00:00",
+    "generated_at": "2026-04-25T16:00:19.700272+00:00",
     "top_repo": "yasasbanukaofficial/claude-code",
     "top_news": "Google plans to invest up to $40B in Anthropic",
     "repo_count": 8,
@@ -14,8 +14,8 @@
       "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
       "language": "TypeScript",
       "stars": 2840,
-      "forks": 4255,
-      "score": 11352.0
+      "forks": 4257,
+      "score": 11356.0
     },
     {
       "bucket": "ai_agents",
@@ -93,65 +93,65 @@
       "id": "47892074",
       "title": "Google plans to invest up to $40B in Anthropic",
       "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "points": 687,
-      "comments": 678,
-      "score": 1704.0
+      "points": 707,
+      "comments": 692,
+      "score": 1745.0
     },
     {
       "id": "47899053",
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
       "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "points": 360,
-      "comments": 205,
-      "score": 667.5
+      "points": 390,
+      "comments": 222,
+      "score": 723.0
     },
     {
       "id": "47890799",
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "points": 478,
-      "comments": 115,
-      "score": 650.5
-    },
-    {
-      "id": "47873323",
-      "title": "Email could have been X.400 times better",
-      "url": "https://buttondown.com/blog/x400-vs-smtp-email",
-      "points": 214,
-      "comments": 175,
-      "score": 491.5
+      "points": 482,
+      "comments": 117,
+      "score": 657.5
     },
     {
       "id": "47893779",
       "title": "There Will Be a Scientific Theory of Deep Learning",
       "url": "https://arxiv.org/abs/2604.21691",
-      "points": 297,
-      "comments": 128,
-      "score": 489.0
+      "points": 310,
+      "comments": 140,
+      "score": 520.0
     },
     {
       "id": "47894747",
       "title": "My audio interface has SSH enabled by default",
       "url": "https://hhh.hn/rodecaster-duo-fw/",
-      "points": 281,
-      "comments": 84,
-      "score": 407.0
+      "points": 286,
+      "comments": 86,
+      "score": 415.0
     },
     {
-      "id": "47851613",
-      "title": "Work with the garage door up (2024)",
-      "url": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
-      "points": 174,
-      "comments": 121,
-      "score": 355.5
+      "id": "47897681",
+      "title": "Plain text has been around for decades and it\u2019s here to stay",
+      "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+      "points": 196,
+      "comments": 85,
+      "score": 338.5
     },
     {
       "id": "47864056",
       "title": "Iliad fragment found in Roman-era mummy",
       "url": "https://www.thehistoryblog.com/archives/75877",
-      "points": 218,
-      "comments": 70,
-      "score": 323.0
+      "points": 220,
+      "comments": 73,
+      "score": 329.5
+    },
+    {
+      "id": "47899844",
+      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "url": "https://github.com/nex-crm/wuphf",
+      "points": 158,
+      "comments": 78,
+      "score": 320.0
     }
   ],
   "ideas": [

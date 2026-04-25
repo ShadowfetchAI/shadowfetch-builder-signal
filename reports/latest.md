@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-25T15:00:17.666884+00:00`
+Generated: `2026-04-25T16:00:19.700272+00:00`
 
 ## What matters first
 
@@ -63,43 +63,43 @@ Generated: `2026-04-25T15:00:17.666884+00:00`
 
 ### 1. Google plans to invest up to $40B in Anthropic
 - URL: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic
-- Points: 687
-- Comments: 678
+- Points: 707
+- Comments: 692
 
 ### 2. New 10 GbE USB adapters are cooler, smaller, cheaper
 - URL: https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/
-- Points: 360
-- Comments: 205
+- Points: 390
+- Comments: 222
 
 ### 3. Sabotaging projects by overthinking, scope creep, and structural diffing
 - URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/
-- Points: 478
-- Comments: 115
+- Points: 482
+- Comments: 117
 
-### 4. Email could have been X.400 times better
-- URL: https://buttondown.com/blog/x400-vs-smtp-email
-- Points: 214
-- Comments: 175
-
-### 5. There Will Be a Scientific Theory of Deep Learning
+### 4. There Will Be a Scientific Theory of Deep Learning
 - URL: https://arxiv.org/abs/2604.21691
-- Points: 297
-- Comments: 128
+- Points: 310
+- Comments: 140
 
-### 6. My audio interface has SSH enabled by default
+### 5. My audio interface has SSH enabled by default
 - URL: https://hhh.hn/rodecaster-duo-fw/
-- Points: 281
-- Comments: 84
+- Points: 286
+- Comments: 86
 
-### 7. Work with the garage door up (2024)
-- URL: https://notes.andymatuschak.org/Work_with_the_garage_door_up
-- Points: 174
-- Comments: 121
+### 6. Plain text has been around for decades and it’s here to stay
+- URL: https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/
+- Points: 196
+- Comments: 85
 
-### 8. Iliad fragment found in Roman-era mummy
+### 7. Iliad fragment found in Roman-era mummy
 - URL: https://www.thehistoryblog.com/archives/75877
-- Points: 218
-- Comments: 70
+- Points: 220
+- Comments: 73
+
+### 8. Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)
+- URL: https://github.com/nex-crm/wuphf
+- Points: 158
+- Comments: 78
 
 ## App idea angles
 
