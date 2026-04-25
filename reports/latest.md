@@ -1,11 +1,11 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-25T14:00:20.227848+00:00`
+Generated: `2026-04-25T15:00:17.666884+00:00`
 
 ## What matters first
 
 - Top repo signal: `yasasbanukaofficial/claude-code`
-- Top news signal: `DeepSeek v4`
+- Top news signal: `Google plans to invest up to $40B in Anthropic`
 - Repo items captured: `8`
 - News items captured: `8`
 
@@ -61,45 +61,45 @@ Generated: `2026-04-25T14:00:20.227848+00:00`
 
 ## Top news signals
 
-### 1. DeepSeek v4
-- URL: https://api-docs.deepseek.com/news/news260424
-- Points: 1976
-- Comments: 1511
-
-### 2. Google plans to invest up to $40B in Anthropic
+### 1. Google plans to invest up to $40B in Anthropic
 - URL: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic
-- Points: 657
-- Comments: 661
+- Points: 687
+- Comments: 678
+
+### 2. New 10 GbE USB adapters are cooler, smaller, cheaper
+- URL: https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/
+- Points: 360
+- Comments: 205
 
 ### 3. Sabotaging projects by overthinking, scope creep, and structural diffing
 - URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/
-- Points: 469
-- Comments: 113
+- Points: 478
+- Comments: 115
 
-### 4. New 10 GbE USB adapters are cooler, smaller, cheaper
-- URL: https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/
-- Points: 322
-- Comments: 163
-
-### 5. Firefox Has Integrated Brave's Adblock Engine
-- URL: https://itsfoss.com/news/firefox-ships-brave-adblock-engine/
-- Points: 311
-- Comments: 162
-
-### 6. Email could have been X.400 times better
+### 4. Email could have been X.400 times better
 - URL: https://buttondown.com/blog/x400-vs-smtp-email
-- Points: 206
-- Comments: 171
+- Points: 214
+- Comments: 175
 
-### 7. There Will Be a Scientific Theory of Deep Learning
+### 5. There Will Be a Scientific Theory of Deep Learning
 - URL: https://arxiv.org/abs/2604.21691
-- Points: 285
-- Comments: 120
+- Points: 297
+- Comments: 128
 
-### 8. My audio interface has SSH enabled by default
+### 6. My audio interface has SSH enabled by default
 - URL: https://hhh.hn/rodecaster-duo-fw/
-- Points: 273
-- Comments: 83
+- Points: 281
+- Comments: 84
+
+### 7. Work with the garage door up (2024)
+- URL: https://notes.andymatuschak.org/Work_with_the_garage_door_up
+- Points: 174
+- Comments: 121
+
+### 8. Iliad fragment found in Roman-era mummy
+- URL: https://www.thehistoryblog.com/archives/75877
+- Points: 218
+- Comments: 70
 
 ## App idea angles
 
@@ -108,7 +108,7 @@ Generated: `2026-04-25T14:00:20.227848+00:00`
 - Why now: Open-source discovery is noisy, while founders want a short list of tools that are already proving themselves.
 
 ### News-to-Action Brief
-- Thesis: Convert stories like 'DeepSeek v4' into practical builder implications, risks, and next actions instead of generic summaries.
+- Thesis: Convert stories like 'Google plans to invest up to $40B in Anthropic' into practical builder implications, risks, and next actions instead of generic summaries.
 - Why now: AI and developer news moves faster than most teams can process, so operational summaries are worth more than hot takes.
 
 ### Builder Signal Dashboard

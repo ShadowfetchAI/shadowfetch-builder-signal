@@ -1,8 +1,8 @@
 {
   "summary": {
-    "generated_at": "2026-04-25T14:00:20.227848+00:00",
+    "generated_at": "2026-04-25T15:00:17.666884+00:00",
     "top_repo": "yasasbanukaofficial/claude-code",
-    "top_news": "DeepSeek v4",
+    "top_news": "Google plans to invest up to $40B in Anthropic",
     "repo_count": 8,
     "news_count": 8
   },
@@ -14,8 +14,8 @@
       "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
       "language": "TypeScript",
       "stars": 2840,
-      "forks": 4254,
-      "score": 11350.0
+      "forks": 4255,
+      "score": 11352.0
     },
     {
       "bucket": "ai_agents",
@@ -54,8 +54,8 @@
       "description": "nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency. ",
       "language": "Rust",
       "stars": 2113,
-      "forks": 147,
-      "score": 2463.5
+      "forks": 148,
+      "score": 2465.5
     },
     {
       "bucket": "ai_agents",
@@ -90,68 +90,68 @@
   ],
   "news": [
     {
-      "id": "47884971",
-      "title": "DeepSeek v4",
-      "url": "https://api-docs.deepseek.com/news/news260424",
-      "points": 1976,
-      "comments": 1511,
-      "score": 4242.5
-    },
-    {
       "id": "47892074",
       "title": "Google plans to invest up to $40B in Anthropic",
       "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "points": 657,
-      "comments": 661,
-      "score": 1648.5
-    },
-    {
-      "id": "47890799",
-      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
-      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "points": 469,
-      "comments": 113,
-      "score": 638.5
+      "points": 687,
+      "comments": 678,
+      "score": 1704.0
     },
     {
       "id": "47899053",
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
       "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "points": 322,
-      "comments": 163,
-      "score": 566.5
+      "points": 360,
+      "comments": 205,
+      "score": 667.5
     },
     {
-      "id": "47897891",
-      "title": "Firefox Has Integrated Brave's Adblock Engine",
-      "url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
-      "points": 311,
-      "comments": 162,
-      "score": 554.0
+      "id": "47890799",
+      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+      "points": 478,
+      "comments": 115,
+      "score": 650.5
     },
     {
       "id": "47873323",
       "title": "Email could have been X.400 times better",
       "url": "https://buttondown.com/blog/x400-vs-smtp-email",
-      "points": 206,
-      "comments": 171,
-      "score": 477.5
+      "points": 214,
+      "comments": 175,
+      "score": 491.5
     },
     {
       "id": "47893779",
       "title": "There Will Be a Scientific Theory of Deep Learning",
       "url": "https://arxiv.org/abs/2604.21691",
-      "points": 285,
-      "comments": 120,
-      "score": 465.0
+      "points": 297,
+      "comments": 128,
+      "score": 489.0
     },
     {
       "id": "47894747",
       "title": "My audio interface has SSH enabled by default",
       "url": "https://hhh.hn/rodecaster-duo-fw/",
-      "points": 273,
-      "comments": 83,
-      "score": 397.5
+      "points": 281,
+      "comments": 84,
+      "score": 407.0
+    },
+    {
+      "id": "47851613",
+      "title": "Work with the garage door up (2024)",
+      "url": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
+      "points": 174,
+      "comments": 121,
+      "score": 355.5
+    },
+    {
+      "id": "47864056",
+      "title": "Iliad fragment found in Roman-era mummy",
+      "url": "https://www.thehistoryblog.com/archives/75877",
+      "points": 218,
+      "comments": 70,
+      "score": 323.0
     }
   ],
   "ideas": [
@@ -162,7 +162,7 @@
     },
     {
       "name": "News-to-Action Brief",
-      "thesis": "Convert stories like 'DeepSeek v4' into practical builder implications, risks, and next actions instead of generic summaries.",
+      "thesis": "Convert stories like 'Google plans to invest up to $40B in Anthropic' into practical builder implications, risks, and next actions instead of generic summaries.",
       "why_now": "AI and developer news moves faster than most teams can process, so operational summaries are worth more than hot takes."
     },
     {
