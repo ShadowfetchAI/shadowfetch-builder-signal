@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-04-25T10:00:19.848978+00:00",
+    "generated_at": "2026-04-25T11:00:19.467093+00:00",
     "top_repo": "yasasbanukaofficial/claude-code",
     "top_news": "DeepSeek v4",
     "repo_count": 8,
@@ -13,9 +13,9 @@
       "url": "https://github.com/yasasbanukaofficial/claude-code",
       "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
       "language": "TypeScript",
-      "stars": 2832,
-      "forks": 4248,
-      "score": 11330.0
+      "stars": 2833,
+      "forks": 4250,
+      "score": 11335.0
     },
     {
       "bucket": "ai_agents",
@@ -93,65 +93,65 @@
       "id": "47884971",
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/news/news260424",
-      "points": 1909,
-      "comments": 1479,
-      "score": 4127.5
+      "points": 1928,
+      "comments": 1486,
+      "score": 4157.0
     },
     {
       "id": "47892074",
       "title": "Google plans to invest up to $40B in Anthropic",
       "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "points": 585,
-      "comments": 560,
-      "score": 1425.0
+      "points": 601,
+      "comments": 581,
+      "score": 1472.5
     },
     {
       "id": "47890799",
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "points": 429,
-      "comments": 107,
-      "score": 589.5
+      "points": 440,
+      "comments": 109,
+      "score": 603.5
     },
     {
       "id": "47872306",
       "title": "MacBook Neo and how the iPad should be",
       "url": "https://craigmod.com/essays/ipad_neo/",
-      "points": 277,
-      "comments": 158,
-      "score": 529.0
-    },
-    {
-      "id": "47894435",
-      "title": "The Classic American Diner",
-      "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
-      "points": 223,
-      "comments": 135,
-      "score": 425.5
-    },
-    {
-      "id": "47873323",
-      "title": "Email could have been X.400 times better",
-      "url": "https://buttondown.com/blog/x400-vs-smtp-email",
-      "points": 176,
-      "comments": 149,
-      "score": 414.5
+      "points": 282,
+      "comments": 164,
+      "score": 543.0
     },
     {
       "id": "47897891",
       "title": "Firefox Has Integrated Brave's Adblock Engine",
       "url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
-      "points": 231,
-      "comments": 114,
-      "score": 402.0
+      "points": 255,
+      "comments": 128,
+      "score": 447.0
+    },
+    {
+      "id": "47873323",
+      "title": "Email could have been X.400 times better",
+      "url": "https://buttondown.com/blog/x400-vs-smtp-email",
+      "points": 186,
+      "comments": 152,
+      "score": 429.0
+    },
+    {
+      "id": "47894435",
+      "title": "The Classic American Diner",
+      "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+      "points": 224,
+      "comments": 135,
+      "score": 426.5
     },
     {
       "id": "47893779",
       "title": "There Will Be a Scientific Theory of Deep Learning",
       "url": "https://arxiv.org/abs/2604.21691",
-      "points": 238,
-      "comments": 104,
-      "score": 394.0
+      "points": 248,
+      "comments": 111,
+      "score": 414.5
     }
   ],
   "ideas": [

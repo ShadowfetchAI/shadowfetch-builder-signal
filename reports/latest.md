@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-25T10:00:19.848978+00:00`
+Generated: `2026-04-25T11:00:19.467093+00:00`
 
 ## What matters first
 
@@ -14,7 +14,7 @@ Generated: `2026-04-25T10:00:19.848978+00:00`
 ### 1. yasasbanukaofficial/claude-code
 - URL: https://github.com/yasasbanukaofficial/claude-code
 - Language: TypeScript
-- Stars: 2832
+- Stars: 2833
 - Why it matters: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
 
 ### 2. smallcloudai/refact
@@ -63,43 +63,43 @@ Generated: `2026-04-25T10:00:19.848978+00:00`
 
 ### 1. DeepSeek v4
 - URL: https://api-docs.deepseek.com/news/news260424
-- Points: 1909
-- Comments: 1479
+- Points: 1928
+- Comments: 1486
 
 ### 2. Google plans to invest up to $40B in Anthropic
 - URL: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic
-- Points: 585
-- Comments: 560
+- Points: 601
+- Comments: 581
 
 ### 3. Sabotaging projects by overthinking, scope creep, and structural diffing
 - URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/
-- Points: 429
-- Comments: 107
+- Points: 440
+- Comments: 109
 
 ### 4. MacBook Neo and how the iPad should be
 - URL: https://craigmod.com/essays/ipad_neo/
-- Points: 277
-- Comments: 158
+- Points: 282
+- Comments: 164
 
-### 5. The Classic American Diner
-- URL: https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/
-- Points: 223
-- Comments: 135
+### 5. Firefox Has Integrated Brave's Adblock Engine
+- URL: https://itsfoss.com/news/firefox-ships-brave-adblock-engine/
+- Points: 255
+- Comments: 128
 
 ### 6. Email could have been X.400 times better
 - URL: https://buttondown.com/blog/x400-vs-smtp-email
-- Points: 176
-- Comments: 149
+- Points: 186
+- Comments: 152
 
-### 7. Firefox Has Integrated Brave's Adblock Engine
-- URL: https://itsfoss.com/news/firefox-ships-brave-adblock-engine/
-- Points: 231
-- Comments: 114
+### 7. The Classic American Diner
+- URL: https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/
+- Points: 224
+- Comments: 135
 
 ### 8. There Will Be a Scientific Theory of Deep Learning
 - URL: https://arxiv.org/abs/2604.21691
-- Points: 238
-- Comments: 104
+- Points: 248
+- Comments: 111
 
 ## App idea angles
 
