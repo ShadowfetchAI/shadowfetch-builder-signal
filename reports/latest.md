@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-25T01:00:18.713124+00:00`
+Generated: `2026-04-25T02:00:20.329734+00:00`
 
 ## What matters first
 
@@ -38,7 +38,7 @@ Generated: `2026-04-25T01:00:18.713124+00:00`
 ### 5. always-further/nono
 - URL: https://github.com/always-further/nono
 - Language: Rust
-- Stars: 2111
+- Stars: 2112
 - Why it matters: nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency. 
 
 ### 6. OfficeDev/microsoft-365-agents-toolkit
@@ -63,43 +63,43 @@ Generated: `2026-04-25T01:00:18.713124+00:00`
 
 ### 1. DeepSeek v4
 - URL: https://api-docs.deepseek.com/
-- Points: 1799
-- Comments: 1401
+- Points: 1809
+- Comments: 1410
 
 ### 2. I cancelled Claude: Token issues, declining quality, and poor support
 - URL: https://nickyreinert.de/en/2026/2026-04-24-claude-critics/
-- Points: 765
-- Comments: 453
+- Points: 780
+- Comments: 469
 
 ### 3. Google plans to invest up to $40B in Anthropic
 - URL: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic
-- Points: 290
-- Comments: 361
+- Points: 337
+- Comments: 381
 
 ### 4. How to be anti-social – a guide to incoherent and isolating social experiences
 - URL: https://nate.leaflet.pub/3mk4xkaxobc2p
-- Points: 295
-- Comments: 284
+- Points: 305
+- Comments: 292
 
 ### 5. Sabotaging projects by overthinking, scope creep, and structural diffing
 - URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/
-- Points: 348
-- Comments: 88
+- Points: 357
+- Comments: 92
 
 ### 6. Spinel: Ruby AOT Native Compiler
 - URL: https://github.com/matz/spinel
-- Points: 307
-- Comments: 81
+- Points: 309
+- Comments: 83
 
 ### 7. OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API
 - URL: https://developers.openai.com/api/docs/changelog
-- Points: 209
-- Comments: 114
+- Points: 213
+- Comments: 118
 
 ### 8. I'm done making desktop applications (2009)
 - URL: https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/
-- Points: 139
-- Comments: 169
+- Points: 142
+- Comments: 171
 
 ## App idea angles
 
