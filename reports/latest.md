@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-25T04:00:18.943433+00:00`
+Generated: `2026-04-25T05:00:21.273179+00:00`
 
 ## What matters first
 
@@ -26,7 +26,7 @@ Generated: `2026-04-25T04:00:18.943433+00:00`
 ### 3. golutra/golutra
 - URL: https://github.com/golutra/golutra
 - Language: Rust
-- Stars: 3289
+- Stars: 3291
 - Why it matters: Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
 
 ### 4. cirosantilli/china-dictatorship
@@ -63,43 +63,43 @@ Generated: `2026-04-25T04:00:18.943433+00:00`
 
 ### 1. DeepSeek v4
 - URL: https://api-docs.deepseek.com/news/news260424
-- Points: 1843
-- Comments: 1435
+- Points: 1859
+- Comments: 1443
 
 ### 2. I cancelled Claude: Token issues, declining quality, and poor support
 - URL: https://nickyreinert.de/en/2026/2026-04-24-claude-critics/
-- Points: 815
-- Comments: 487
+- Points: 832
+- Comments: 492
 
 ### 3. Google plans to invest up to $40B in Anthropic
 - URL: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic
-- Points: 413
-- Comments: 447
+- Points: 447
+- Comments: 468
 
 ### 4. How to be anti-social – a guide to incoherent and isolating social experiences
 - URL: https://nate.leaflet.pub/3mk4xkaxobc2p
-- Points: 325
-- Comments: 302
+- Points: 331
+- Comments: 307
 
 ### 5. Sabotaging projects by overthinking, scope creep, and structural diffing
 - URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/
-- Points: 378
-- Comments: 94
+- Points: 386
+- Comments: 97
 
 ### 6. MacBook Neo and how the iPad should be
 - URL: https://craigmod.com/essays/ipad_neo/
-- Points: 224
-- Comments: 130
+- Points: 235
+- Comments: 132
 
 ### 7. I'm done making desktop applications (2009)
 - URL: https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/
-- Points: 151
-- Comments: 176
+- Points: 156
+- Comments: 177
 
-### 8. SDL Now Supports DOS
-- URL: https://github.com/libsdl-org/SDL/pull/15377
-- Points: 233
-- Comments: 88
+### 8. Email could have been X.400 times better
+- URL: https://buttondown.com/blog/x400-vs-smtp-email
+- Points: 152
+- Comments: 142
 
 ## App idea angles
 
