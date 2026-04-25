@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-25T07:00:21.636861+00:00`
+Generated: `2026-04-25T08:00:15.694441+00:00`
 
 ## What matters first
 
@@ -26,7 +26,7 @@ Generated: `2026-04-25T07:00:21.636861+00:00`
 ### 3. golutra/golutra
 - URL: https://github.com/golutra/golutra
 - Language: Rust
-- Stars: 3292
+- Stars: 3293
 - Why it matters: Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
 
 ### 4. cirosantilli/china-dictatorship
@@ -63,43 +63,43 @@ Generated: `2026-04-25T07:00:21.636861+00:00`
 
 ### 1. DeepSeek v4
 - URL: https://api-docs.deepseek.com/news/news260424
-- Points: 1877
-- Comments: 1459
+- Points: 1886
+- Comments: 1470
 
 ### 2. Google plans to invest up to $40B in Anthropic
 - URL: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic
-- Points: 516
-- Comments: 504
+- Points: 549
+- Comments: 536
 
 ### 3. Sabotaging projects by overthinking, scope creep, and structural diffing
 - URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/
-- Points: 408
-- Comments: 105
+- Points: 413
+- Comments: 106
 
 ### 4. MacBook Neo and how the iPad should be
 - URL: https://craigmod.com/essays/ipad_neo/
-- Points: 252
-- Comments: 140
+- Points: 259
+- Comments: 143
 
-### 5. I'm done making desktop applications (2009)
-- URL: https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/
-- Points: 165
-- Comments: 182
-
-### 6. Email could have been X.400 times better
+### 5. Email could have been X.400 times better
 - URL: https://buttondown.com/blog/x400-vs-smtp-email
-- Points: 162
+- Points: 168
 - Comments: 148
 
-### 7. The Classic American Diner
+### 6. The Classic American Diner
 - URL: https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/
-- Points: 202
-- Comments: 122
+- Points: 211
+- Comments: 128
+
+### 7. There Will Be a Scientific Theory of Deep Learning
+- URL: https://arxiv.org/abs/2604.21691
+- Points: 211
+- Comments: 88
 
 ### 8. My audio interface has SSH enabled by default
 - URL: https://hhh.hn/rodecaster-duo-fw/
-- Points: 216
-- Comments: 72
+- Points: 228
+- Comments: 76
 
 ## App idea angles
 

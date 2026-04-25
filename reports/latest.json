@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-04-25T07:00:21.636861+00:00",
+    "generated_at": "2026-04-25T08:00:15.694441+00:00",
     "top_repo": "yasasbanukaofficial/claude-code",
     "top_news": "DeepSeek v4",
     "repo_count": 8,
@@ -14,8 +14,8 @@
       "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
       "language": "TypeScript",
       "stars": 2827,
-      "forks": 4241,
-      "score": 11311.0
+      "forks": 4243,
+      "score": 11315.0
     },
     {
       "bucket": "ai_agents",
@@ -33,9 +33,9 @@
       "url": "https://github.com/golutra/golutra",
       "description": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.",
       "language": "Rust",
-      "stars": 3292,
+      "stars": 3293,
       "forks": 373,
-      "score": 4070.0
+      "score": 4071.0
     },
     {
       "bucket": "ai_agents",
@@ -55,7 +55,7 @@
       "language": "Rust",
       "stars": 2113,
       "forks": 147,
-      "score": 2464.0
+      "score": 2464.5
     },
     {
       "bucket": "ai_agents",
@@ -93,65 +93,65 @@
       "id": "47884971",
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/news/news260424",
-      "points": 1877,
-      "comments": 1459,
-      "score": 4065.5
+      "points": 1886,
+      "comments": 1470,
+      "score": 4091.0
     },
     {
       "id": "47892074",
       "title": "Google plans to invest up to $40B in Anthropic",
       "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "points": 516,
-      "comments": 504,
-      "score": 1272.0
+      "points": 549,
+      "comments": 536,
+      "score": 1353.0
     },
     {
       "id": "47890799",
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "points": 408,
-      "comments": 105,
-      "score": 565.5
+      "points": 413,
+      "comments": 106,
+      "score": 572.0
     },
     {
       "id": "47872306",
       "title": "MacBook Neo and how the iPad should be",
       "url": "https://craigmod.com/essays/ipad_neo/",
-      "points": 252,
-      "comments": 140,
-      "score": 477.0
-    },
-    {
-      "id": "47891801",
-      "title": "I'm done making desktop applications (2009)",
-      "url": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
-      "points": 165,
-      "comments": 182,
-      "score": 438.0
+      "points": 259,
+      "comments": 143,
+      "score": 488.5
     },
     {
       "id": "47873323",
       "title": "Email could have been X.400 times better",
       "url": "https://buttondown.com/blog/x400-vs-smtp-email",
-      "points": 162,
+      "points": 168,
       "comments": 148,
-      "score": 399.0
+      "score": 405.0
     },
     {
       "id": "47894435",
       "title": "The Classic American Diner",
       "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
-      "points": 202,
-      "comments": 122,
-      "score": 385.0
+      "points": 211,
+      "comments": 128,
+      "score": 403.0
+    },
+    {
+      "id": "47893779",
+      "title": "There Will Be a Scientific Theory of Deep Learning",
+      "url": "https://arxiv.org/abs/2604.21691",
+      "points": 211,
+      "comments": 88,
+      "score": 343.0
     },
     {
       "id": "47894747",
       "title": "My audio interface has SSH enabled by default",
       "url": "https://hhh.hn/rodecaster-duo-fw/",
-      "points": 216,
-      "comments": 72,
-      "score": 324.0
+      "points": 228,
+      "comments": 76,
+      "score": 342.0
     }
   ],
   "ideas": [
