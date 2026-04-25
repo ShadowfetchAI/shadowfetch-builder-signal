@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-25T05:05:44.357197+00:00`
+Generated: `2026-04-25T06:00:20.340977+00:00`
 
 ## What matters first
 
@@ -14,7 +14,7 @@ Generated: `2026-04-25T05:05:44.357197+00:00`
 ### 1. yasasbanukaofficial/claude-code
 - URL: https://github.com/yasasbanukaofficial/claude-code
 - Language: TypeScript
-- Stars: 2826
+- Stars: 2827
 - Why it matters: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
 
 ### 2. smallcloudai/refact
@@ -26,7 +26,7 @@ Generated: `2026-04-25T05:05:44.357197+00:00`
 ### 3. golutra/golutra
 - URL: https://github.com/golutra/golutra
 - Language: Rust
-- Stars: 3291
+- Stars: 3292
 - Why it matters: Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
 
 ### 4. cirosantilli/china-dictatorship
@@ -63,43 +63,43 @@ Generated: `2026-04-25T05:05:44.357197+00:00`
 
 ### 1. DeepSeek v4
 - URL: https://api-docs.deepseek.com/news/news260424
-- Points: 1860
-- Comments: 1444
+- Points: 1866
+- Comments: 1450
 
-### 2. I cancelled Claude: Token issues, declining quality, and poor support
-- URL: https://nickyreinert.de/en/2026/2026-04-24-claude-critics/
-- Points: 833
-- Comments: 494
-
-### 3. Google plans to invest up to $40B in Anthropic
+### 2. Google plans to invest up to $40B in Anthropic
 - URL: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic
-- Points: 447
-- Comments: 468
+- Points: 477
+- Comments: 481
 
-### 4. How to be anti-social – a guide to incoherent and isolating social experiences
+### 3. How to be anti-social – a guide to incoherent and isolating social experiences
 - URL: https://nate.leaflet.pub/3mk4xkaxobc2p
-- Points: 332
-- Comments: 308
+- Points: 336
+- Comments: 311
 
-### 5. Sabotaging projects by overthinking, scope creep, and structural diffing
+### 4. Sabotaging projects by overthinking, scope creep, and structural diffing
 - URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/
-- Points: 387
-- Comments: 97
+- Points: 393
+- Comments: 104
 
-### 6. MacBook Neo and how the iPad should be
+### 5. MacBook Neo and how the iPad should be
 - URL: https://craigmod.com/essays/ipad_neo/
-- Points: 237
-- Comments: 132
+- Points: 243
+- Comments: 135
 
-### 7. I'm done making desktop applications (2009)
+### 6. I'm done making desktop applications (2009)
 - URL: https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/
-- Points: 156
-- Comments: 177
+- Points: 159
+- Comments: 182
 
-### 8. Email could have been X.400 times better
+### 7. Email could have been X.400 times better
 - URL: https://buttondown.com/blog/x400-vs-smtp-email
-- Points: 153
-- Comments: 142
+- Points: 156
+- Comments: 146
+
+### 8. The Classic American Diner
+- URL: https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/
+- Points: 195
+- Comments: 117
 
 ## App idea angles
 

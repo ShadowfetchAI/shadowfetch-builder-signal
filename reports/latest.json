@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-04-25T05:05:44.357197+00:00",
+    "generated_at": "2026-04-25T06:00:20.340977+00:00",
     "top_repo": "yasasbanukaofficial/claude-code",
     "top_news": "DeepSeek v4",
     "repo_count": 8,
@@ -13,9 +13,9 @@
       "url": "https://github.com/yasasbanukaofficial/claude-code",
       "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
       "language": "TypeScript",
-      "stars": 2826,
-      "forks": 4239,
-      "score": 11306.0
+      "stars": 2827,
+      "forks": 4240,
+      "score": 11309.0
     },
     {
       "bucket": "ai_agents",
@@ -33,9 +33,9 @@
       "url": "https://github.com/golutra/golutra",
       "description": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.",
       "language": "Rust",
-      "stars": 3291,
+      "stars": 3292,
       "forks": 373,
-      "score": 4069.0
+      "score": 4070.0
     },
     {
       "bucket": "ai_agents",
@@ -93,65 +93,65 @@
       "id": "47884971",
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/news/news260424",
-      "points": 1860,
-      "comments": 1444,
-      "score": 4026.0
-    },
-    {
-      "id": "47892019",
-      "title": "I cancelled Claude: Token issues, declining quality, and poor support",
-      "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-      "points": 833,
-      "comments": 494,
-      "score": 1574.0
+      "points": 1866,
+      "comments": 1450,
+      "score": 4041.0
     },
     {
       "id": "47892074",
       "title": "Google plans to invest up to $40B in Anthropic",
       "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "points": 447,
-      "comments": 468,
-      "score": 1149.0
+      "points": 477,
+      "comments": 481,
+      "score": 1198.5
     },
     {
       "id": "47888372",
       "title": "How to be anti-social \u2013 a guide to incoherent and isolating social experiences",
       "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
-      "points": 332,
-      "comments": 308,
-      "score": 794.0
+      "points": 336,
+      "comments": 311,
+      "score": 802.5
     },
     {
       "id": "47890799",
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "points": 387,
-      "comments": 97,
-      "score": 532.5
+      "points": 393,
+      "comments": 104,
+      "score": 549.0
     },
     {
       "id": "47872306",
       "title": "MacBook Neo and how the iPad should be",
       "url": "https://craigmod.com/essays/ipad_neo/",
-      "points": 237,
-      "comments": 132,
-      "score": 450.0
+      "points": 243,
+      "comments": 135,
+      "score": 460.5
     },
     {
       "id": "47891801",
       "title": "I'm done making desktop applications (2009)",
       "url": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
-      "points": 156,
-      "comments": 177,
-      "score": 421.5
+      "points": 159,
+      "comments": 182,
+      "score": 432.0
     },
     {
       "id": "47873323",
       "title": "Email could have been X.400 times better",
       "url": "https://buttondown.com/blog/x400-vs-smtp-email",
-      "points": 153,
-      "comments": 142,
-      "score": 381.0
+      "points": 156,
+      "comments": 146,
+      "score": 390.0
+    },
+    {
+      "id": "47894435",
+      "title": "The Classic American Diner",
+      "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+      "points": 195,
+      "comments": 117,
+      "score": 370.5
     }
   ],
   "ideas": [
