@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-04-25T00:00:20.971659+00:00",
+    "generated_at": "2026-04-25T01:00:18.713124+00:00",
     "top_repo": "yasasbanukaofficial/claude-code",
     "top_news": "DeepSeek v4",
     "repo_count": 8,
@@ -13,9 +13,9 @@
       "url": "https://github.com/yasasbanukaofficial/claude-code",
       "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
       "language": "TypeScript",
-      "stars": 2823,
-      "forks": 4234,
-      "score": 11293.0
+      "stars": 2824,
+      "forks": 4236,
+      "score": 11298.0
     },
     {
       "bucket": "ai_agents",
@@ -33,9 +33,9 @@
       "url": "https://github.com/golutra/golutra",
       "description": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.",
       "language": "Rust",
-      "stars": 3289,
+      "stars": 3290,
       "forks": 373,
-      "score": 4067.0
+      "score": 4068.0
     },
     {
       "bucket": "ai_agents",
@@ -75,7 +75,7 @@
       "language": "JavaScript",
       "stars": 759,
       "forks": 81,
-      "score": 921.5
+      "score": 921.0
     },
     {
       "bucket": "ai_agents",
@@ -93,65 +93,65 @@
       "id": "47884971",
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/",
-      "points": 1781,
-      "comments": 1387,
-      "score": 3861.5
+      "points": 1799,
+      "comments": 1401,
+      "score": 3900.5
     },
     {
       "id": "47892019",
       "title": "I cancelled Claude: Token issues, declining quality, and poor support",
       "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-      "points": 739,
-      "comments": 438,
-      "score": 1396.0
+      "points": 765,
+      "comments": 453,
+      "score": 1444.5
     },
     {
       "id": "47892074",
       "title": "Google plans to invest up to $40B in Anthropic",
       "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "points": 248,
-      "comments": 307,
-      "score": 708.5
+      "points": 290,
+      "comments": 361,
+      "score": 831.5
     },
     {
       "id": "47888372",
       "title": "How to be anti-social \u2013 a guide to incoherent and isolating social experiences",
       "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
-      "points": 288,
-      "comments": 280,
-      "score": 708.0
+      "points": 295,
+      "comments": 284,
+      "score": 721.0
     },
     {
       "id": "47890799",
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "points": 343,
-      "comments": 84,
-      "score": 469.0
+      "points": 348,
+      "comments": 88,
+      "score": 480.0
     },
     {
       "id": "47887334",
       "title": "Spinel: Ruby AOT Native Compiler",
       "url": "https://github.com/matz/spinel",
-      "points": 298,
+      "points": 307,
       "comments": 81,
-      "score": 434.5
+      "score": 443.5
     },
     {
       "id": "47894000",
       "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
       "url": "https://developers.openai.com/api/docs/changelog",
-      "points": 198,
-      "comments": 110,
-      "score": 393.0
+      "points": 209,
+      "comments": 114,
+      "score": 410.0
     },
     {
       "id": "47891801",
       "title": "I'm done making desktop applications (2009)",
       "url": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
-      "points": 136,
-      "comments": 153,
-      "score": 365.5
+      "points": 139,
+      "comments": 169,
+      "score": 392.5
     }
   ],
   "ideas": [
