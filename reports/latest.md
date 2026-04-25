@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-25T05:00:21.273179+00:00`
+Generated: `2026-04-25T05:05:44.357197+00:00`
 
 ## What matters first
 
@@ -63,13 +63,13 @@ Generated: `2026-04-25T05:00:21.273179+00:00`
 
 ### 1. DeepSeek v4
 - URL: https://api-docs.deepseek.com/news/news260424
-- Points: 1859
-- Comments: 1443
+- Points: 1860
+- Comments: 1444
 
 ### 2. I cancelled Claude: Token issues, declining quality, and poor support
 - URL: https://nickyreinert.de/en/2026/2026-04-24-claude-critics/
-- Points: 832
-- Comments: 492
+- Points: 833
+- Comments: 494
 
 ### 3. Google plans to invest up to $40B in Anthropic
 - URL: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic
@@ -78,17 +78,17 @@ Generated: `2026-04-25T05:00:21.273179+00:00`
 
 ### 4. How to be anti-social – a guide to incoherent and isolating social experiences
 - URL: https://nate.leaflet.pub/3mk4xkaxobc2p
-- Points: 331
-- Comments: 307
+- Points: 332
+- Comments: 308
 
 ### 5. Sabotaging projects by overthinking, scope creep, and structural diffing
 - URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/
-- Points: 386
+- Points: 387
 - Comments: 97
 
 ### 6. MacBook Neo and how the iPad should be
 - URL: https://craigmod.com/essays/ipad_neo/
-- Points: 235
+- Points: 237
 - Comments: 132
 
 ### 7. I'm done making desktop applications (2009)
@@ -98,7 +98,7 @@ Generated: `2026-04-25T05:00:21.273179+00:00`
 
 ### 8. Email could have been X.400 times better
 - URL: https://buttondown.com/blog/x400-vs-smtp-email
-- Points: 152
+- Points: 153
 - Comments: 142
 
 ## App idea angles

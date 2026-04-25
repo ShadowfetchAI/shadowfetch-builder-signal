@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-04-25T05:00:21.273179+00:00",
+    "generated_at": "2026-04-25T05:05:44.357197+00:00",
     "top_repo": "yasasbanukaofficial/claude-code",
     "top_news": "DeepSeek v4",
     "repo_count": 8,
@@ -93,17 +93,17 @@
       "id": "47884971",
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/news/news260424",
-      "points": 1859,
-      "comments": 1443,
-      "score": 4023.5
+      "points": 1860,
+      "comments": 1444,
+      "score": 4026.0
     },
     {
       "id": "47892019",
       "title": "I cancelled Claude: Token issues, declining quality, and poor support",
       "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-      "points": 832,
-      "comments": 492,
-      "score": 1570.0
+      "points": 833,
+      "comments": 494,
+      "score": 1574.0
     },
     {
       "id": "47892074",
@@ -117,25 +117,25 @@
       "id": "47888372",
       "title": "How to be anti-social \u2013 a guide to incoherent and isolating social experiences",
       "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
-      "points": 331,
-      "comments": 307,
-      "score": 791.5
+      "points": 332,
+      "comments": 308,
+      "score": 794.0
     },
     {
       "id": "47890799",
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "points": 386,
+      "points": 387,
       "comments": 97,
-      "score": 531.5
+      "score": 532.5
     },
     {
       "id": "47872306",
       "title": "MacBook Neo and how the iPad should be",
       "url": "https://craigmod.com/essays/ipad_neo/",
-      "points": 235,
+      "points": 237,
       "comments": 132,
-      "score": 448.0
+      "score": 450.0
     },
     {
       "id": "47891801",
@@ -149,9 +149,9 @@
       "id": "47873323",
       "title": "Email could have been X.400 times better",
       "url": "https://buttondown.com/blog/x400-vs-smtp-email",
-      "points": 152,
+      "points": 153,
       "comments": 142,
-      "score": 380.0
+      "score": 381.0
     }
   ],
   "ideas": [
