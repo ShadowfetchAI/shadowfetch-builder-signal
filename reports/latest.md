@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-25T06:00:20.340977+00:00`
+Generated: `2026-04-25T07:00:21.636861+00:00`
 
 ## What matters first
 
@@ -38,7 +38,7 @@ Generated: `2026-04-25T06:00:20.340977+00:00`
 ### 5. always-further/nono
 - URL: https://github.com/always-further/nono
 - Language: Rust
-- Stars: 2112
+- Stars: 2113
 - Why it matters: nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency. 
 
 ### 6. OfficeDev/microsoft-365-agents-toolkit
@@ -63,43 +63,43 @@ Generated: `2026-04-25T06:00:20.340977+00:00`
 
 ### 1. DeepSeek v4
 - URL: https://api-docs.deepseek.com/news/news260424
-- Points: 1866
-- Comments: 1450
+- Points: 1877
+- Comments: 1459
 
 ### 2. Google plans to invest up to $40B in Anthropic
 - URL: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic
-- Points: 477
-- Comments: 481
+- Points: 516
+- Comments: 504
 
-### 3. How to be anti-social – a guide to incoherent and isolating social experiences
-- URL: https://nate.leaflet.pub/3mk4xkaxobc2p
-- Points: 336
-- Comments: 311
-
-### 4. Sabotaging projects by overthinking, scope creep, and structural diffing
+### 3. Sabotaging projects by overthinking, scope creep, and structural diffing
 - URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/
-- Points: 393
-- Comments: 104
+- Points: 408
+- Comments: 105
 
-### 5. MacBook Neo and how the iPad should be
+### 4. MacBook Neo and how the iPad should be
 - URL: https://craigmod.com/essays/ipad_neo/
-- Points: 243
-- Comments: 135
+- Points: 252
+- Comments: 140
 
-### 6. I'm done making desktop applications (2009)
+### 5. I'm done making desktop applications (2009)
 - URL: https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/
-- Points: 159
+- Points: 165
 - Comments: 182
 
-### 7. Email could have been X.400 times better
+### 6. Email could have been X.400 times better
 - URL: https://buttondown.com/blog/x400-vs-smtp-email
-- Points: 156
-- Comments: 146
+- Points: 162
+- Comments: 148
 
-### 8. The Classic American Diner
+### 7. The Classic American Diner
 - URL: https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/
-- Points: 195
-- Comments: 117
+- Points: 202
+- Comments: 122
+
+### 8. My audio interface has SSH enabled by default
+- URL: https://hhh.hn/rodecaster-duo-fw/
+- Points: 216
+- Comments: 72
 
 ## App idea angles
 
