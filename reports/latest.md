@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-24T23:00:23.016899+00:00`
+Generated: `2026-04-25T00:00:20.971659+00:00`
 
 ## What matters first
 
@@ -20,7 +20,7 @@ Generated: `2026-04-24T23:00:23.016899+00:00`
 ### 2. smallcloudai/refact
 - URL: https://github.com/smallcloudai/refact
 - Language: Rust
-- Stars: 3534
+- Stars: 3535
 - Why it matters: AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
 
 ### 3. golutra/golutra
@@ -63,43 +63,43 @@ Generated: `2026-04-24T23:00:23.016899+00:00`
 
 ### 1. DeepSeek v4
 - URL: https://api-docs.deepseek.com/
-- Points: 1768
-- Comments: 1362
+- Points: 1781
+- Comments: 1387
 
 ### 2. I cancelled Claude: Token issues, declining quality, and poor support
 - URL: https://nickyreinert.de/en/2026/2026-04-24-claude-critics/
-- Points: 723
-- Comments: 426
+- Points: 739
+- Comments: 438
 
-### 3. How to be anti-social – a guide to incoherent and isolating social experiences
-- URL: https://nate.leaflet.pub/3mk4xkaxobc2p
-- Points: 283
-- Comments: 278
-
-### 4. Google Plans to Invest Up to $40B in Anthropic
+### 3. Google plans to invest up to $40B in Anthropic
 - URL: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic
-- Points: 169
-- Comments: 248
+- Points: 248
+- Comments: 307
+
+### 4. How to be anti-social – a guide to incoherent and isolating social experiences
+- URL: https://nate.leaflet.pub/3mk4xkaxobc2p
+- Points: 288
+- Comments: 280
 
 ### 5. Sabotaging projects by overthinking, scope creep, and structural diffing
 - URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/
-- Points: 338
-- Comments: 82
+- Points: 343
+- Comments: 84
 
 ### 6. Spinel: Ruby AOT Native Compiler
 - URL: https://github.com/matz/spinel
-- Points: 296
-- Comments: 80
+- Points: 298
+- Comments: 81
 
 ### 7. OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API
 - URL: https://developers.openai.com/api/docs/changelog
-- Points: 178
-- Comments: 106
+- Points: 198
+- Comments: 110
 
 ### 8. I'm done making desktop applications (2009)
 - URL: https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/
-- Points: 133
-- Comments: 151
+- Points: 136
+- Comments: 153
 
 ## App idea angles
 
