@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-04-25T03:00:19.702247+00:00",
+    "generated_at": "2026-04-25T04:00:18.943433+00:00",
     "top_repo": "yasasbanukaofficial/claude-code",
     "top_news": "DeepSeek v4",
     "repo_count": 8,
@@ -93,65 +93,65 @@
       "id": "47884971",
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/news/news260424",
-      "points": 1825,
-      "comments": 1426,
-      "score": 3964.0
+      "points": 1843,
+      "comments": 1435,
+      "score": 3995.5
     },
     {
       "id": "47892019",
       "title": "I cancelled Claude: Token issues, declining quality, and poor support",
       "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-      "points": 796,
-      "comments": 482,
-      "score": 1519.0
+      "points": 815,
+      "comments": 487,
+      "score": 1545.5
     },
     {
       "id": "47892074",
       "title": "Google plans to invest up to $40B in Anthropic",
       "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "points": 376,
-      "comments": 413,
-      "score": 995.5
+      "points": 413,
+      "comments": 447,
+      "score": 1083.5
     },
     {
       "id": "47888372",
       "title": "How to be anti-social \u2013 a guide to incoherent and isolating social experiences",
       "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
-      "points": 315,
-      "comments": 294,
-      "score": 756.0
+      "points": 325,
+      "comments": 302,
+      "score": 778.0
     },
     {
       "id": "47890799",
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "points": 368,
-      "comments": 93,
-      "score": 507.5
+      "points": 378,
+      "comments": 94,
+      "score": 519.0
     },
     {
       "id": "47872306",
       "title": "MacBook Neo and how the iPad should be",
       "url": "https://craigmod.com/essays/ipad_neo/",
-      "points": 216,
-      "comments": 123,
-      "score": 415.5
+      "points": 224,
+      "comments": 130,
+      "score": 434.0
     },
     {
       "id": "47891801",
       "title": "I'm done making desktop applications (2009)",
       "url": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
-      "points": 145,
-      "comments": 175,
-      "score": 407.5
+      "points": 151,
+      "comments": 176,
+      "score": 415.0
     },
     {
       "id": "47892291",
       "title": "SDL Now Supports DOS",
       "url": "https://github.com/libsdl-org/SDL/pull/15377",
-      "points": 229,
-      "comments": 83,
-      "score": 368.5
+      "points": 233,
+      "comments": 88,
+      "score": 380.0
     }
   ],
   "ideas": [

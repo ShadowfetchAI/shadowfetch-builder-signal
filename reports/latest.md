@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-25T03:00:19.702247+00:00`
+Generated: `2026-04-25T04:00:18.943433+00:00`
 
 ## What matters first
 
@@ -63,43 +63,43 @@ Generated: `2026-04-25T03:00:19.702247+00:00`
 
 ### 1. DeepSeek v4
 - URL: https://api-docs.deepseek.com/news/news260424
-- Points: 1825
-- Comments: 1426
+- Points: 1843
+- Comments: 1435
 
 ### 2. I cancelled Claude: Token issues, declining quality, and poor support
 - URL: https://nickyreinert.de/en/2026/2026-04-24-claude-critics/
-- Points: 796
-- Comments: 482
+- Points: 815
+- Comments: 487
 
 ### 3. Google plans to invest up to $40B in Anthropic
 - URL: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic
-- Points: 376
-- Comments: 413
+- Points: 413
+- Comments: 447
 
 ### 4. How to be anti-social – a guide to incoherent and isolating social experiences
 - URL: https://nate.leaflet.pub/3mk4xkaxobc2p
-- Points: 315
-- Comments: 294
+- Points: 325
+- Comments: 302
 
 ### 5. Sabotaging projects by overthinking, scope creep, and structural diffing
 - URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/
-- Points: 368
-- Comments: 93
+- Points: 378
+- Comments: 94
 
 ### 6. MacBook Neo and how the iPad should be
 - URL: https://craigmod.com/essays/ipad_neo/
-- Points: 216
-- Comments: 123
+- Points: 224
+- Comments: 130
 
 ### 7. I'm done making desktop applications (2009)
 - URL: https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/
-- Points: 145
-- Comments: 175
+- Points: 151
+- Comments: 176
 
 ### 8. SDL Now Supports DOS
 - URL: https://github.com/libsdl-org/SDL/pull/15377
-- Points: 229
-- Comments: 83
+- Points: 233
+- Comments: 88
 
 ## App idea angles
 
