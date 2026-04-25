@@ -1,6 +1,6 @@
 # Shadowfetch Builder Signal Report
 
-Generated: `2026-04-25T02:00:20.329734+00:00`
+Generated: `2026-04-25T03:00:19.702247+00:00`
 
 ## What matters first
 
@@ -14,7 +14,7 @@ Generated: `2026-04-25T02:00:20.329734+00:00`
 ### 1. yasasbanukaofficial/claude-code
 - URL: https://github.com/yasasbanukaofficial/claude-code
 - Language: TypeScript
-- Stars: 2824
+- Stars: 2826
 - Why it matters: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
 
 ### 2. smallcloudai/refact
@@ -26,7 +26,7 @@ Generated: `2026-04-25T02:00:20.329734+00:00`
 ### 3. golutra/golutra
 - URL: https://github.com/golutra/golutra
 - Language: Rust
-- Stars: 3290
+- Stars: 3289
 - Why it matters: Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
 
 ### 4. cirosantilli/china-dictatorship
@@ -62,44 +62,44 @@ Generated: `2026-04-25T02:00:20.329734+00:00`
 ## Top news signals
 
 ### 1. DeepSeek v4
-- URL: https://api-docs.deepseek.com/
-- Points: 1809
-- Comments: 1410
+- URL: https://api-docs.deepseek.com/news/news260424
+- Points: 1825
+- Comments: 1426
 
 ### 2. I cancelled Claude: Token issues, declining quality, and poor support
 - URL: https://nickyreinert.de/en/2026/2026-04-24-claude-critics/
-- Points: 780
-- Comments: 469
+- Points: 796
+- Comments: 482
 
 ### 3. Google plans to invest up to $40B in Anthropic
 - URL: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic
-- Points: 337
-- Comments: 381
+- Points: 376
+- Comments: 413
 
 ### 4. How to be anti-social – a guide to incoherent and isolating social experiences
 - URL: https://nate.leaflet.pub/3mk4xkaxobc2p
-- Points: 305
-- Comments: 292
+- Points: 315
+- Comments: 294
 
 ### 5. Sabotaging projects by overthinking, scope creep, and structural diffing
 - URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/
-- Points: 357
-- Comments: 92
+- Points: 368
+- Comments: 93
 
-### 6. Spinel: Ruby AOT Native Compiler
-- URL: https://github.com/matz/spinel
-- Points: 309
-- Comments: 83
+### 6. MacBook Neo and how the iPad should be
+- URL: https://craigmod.com/essays/ipad_neo/
+- Points: 216
+- Comments: 123
 
-### 7. OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API
-- URL: https://developers.openai.com/api/docs/changelog
-- Points: 213
-- Comments: 118
-
-### 8. I'm done making desktop applications (2009)
+### 7. I'm done making desktop applications (2009)
 - URL: https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/
-- Points: 142
-- Comments: 171
+- Points: 145
+- Comments: 175
+
+### 8. SDL Now Supports DOS
+- URL: https://github.com/libsdl-org/SDL/pull/15377
+- Points: 229
+- Comments: 83
 
 ## App idea angles
 
